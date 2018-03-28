@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 66 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_66{
+fill: #D9D9D9;
+}
+.g2_66{
+fill: #FFFFFF;
+}
+
+.s1_66{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_66{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_66{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_66{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s6_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s7_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s8_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+.s9_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s10_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #795E26;
+}
+.s11_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #267F99;
+}
+.s12_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #09885A;
+}
+.s13_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+.s14_66{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #811F3F;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_66"
+>66 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_66"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_66" />
+<text 
+x="110" 
+y="127" 
+class="s3_66"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_66"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_66"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.3,1.6,1.4" 
+class="s4_66"
+>BASE</text>
+
+<text 
+x="188" 
+y="127" 
+class="s3_66"
+>.</text>
+
+<text 
+x="194" 
+y="127" 
+dx="0,1.3,1.4,1.5,1.3,1.4,1.6,1.3,1.6" 
+class="s4_66"
+>COMPONENT</text>
+
+<text 
+x="287" 
+y="127" 
+class="s3_66"
+>.</text>
+
+<text 
+x="292" 
+y="127" 
+dx="0,1.3" 
+class="s4_66"
+>TS</text>
+
+<path d="M107.8,157.7l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_66" />
+<text 
+x="110" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>import </text>
+
+<text 
+x="168" 
+y="154" 
+dx="0,-0.3" 
+class="s6_66"
+>{ </text>
+
+<text 
+x="184" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>Component</text>
+
+<text 
+x="259" 
+y="154" 
+dx="0,-0.3" 
+class="s6_66"
+>, </text>
+
+<text 
+x="275" 
+y="154" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_66"
+>OnInit</text>
+
+<text 
+x="325" 
+y="154" 
+class="s6_66"
+>, </text>
+
+<text 
+x="342" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_66"
+>ElementRef</text>
+
+<text 
+x="424" 
+y="154" 
+class="s6_66"
+>, </text>
+
+<text 
+x="441" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_66"
+>ViewChild </text>
+
+<text 
+x="523" 
+y="154" 
+class="s6_66"
+>} </text>
+
+<text 
+x="540" 
+y="154" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s5_66"
+>from </text>
+
+<text 
+x="581" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_66"
+>'@angular/core'</text>
+
+<text 
+x="706" 
+y="154" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,178.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="110" 
+y="174" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>import </text>
+
+<text 
+x="168" 
+y="174" 
+dx="0,-0.3" 
+class="s9_66"
+>* </text>
+
+<text 
+x="184" 
+y="174" 
+dx="0,-0.3,0" 
+class="s5_66"
+>as </text>
+
+<text 
+x="209" 
+y="174" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_66"
+>request </text>
+
+<text 
+x="275" 
+y="174" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_66"
+>from </text>
+
+<text 
+x="317" 
+y="174" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_66"
+>'request'</text>
+
+<text 
+x="391" 
+y="174" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,198.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="110" 
+y="195" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>import </text>
+
+<text 
+x="168" 
+y="195" 
+dx="0,-0.3" 
+class="s6_66"
+>{ </text>
+
+<text 
+x="184" 
+y="195" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_66"
+>NgClass </text>
+
+<text 
+x="250" 
+y="195" 
+class="s6_66"
+>} </text>
+
+<text 
+x="267" 
+y="195" 
+dx="0,0,0,-0.3,0" 
+class="s5_66"
+>from </text>
+
+<text 
+x="308" 
+y="195" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s8_66"
+>'@angular/common'</text>
+
+<text 
+x="449" 
+y="195" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,219.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="110" 
+y="215" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>import </text>
+
+<text 
+x="168" 
+y="215" 
+dx="0,-0.3" 
+class="s6_66"
+>{ </text>
+
+<text 
+x="184" 
+y="215" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_66"
+>languageCodes </text>
+
+<text 
+x="300" 
+y="215" 
+dx="0,-0.3" 
+class="s6_66"
+>} </text>
+
+<text 
+x="317" 
+y="215" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_66"
+>from </text>
+
+<text 
+x="358" 
+y="215" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s8_66"
+>'../language_codes'</text>
+
+<text 
+x="515" 
+y="215" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,240.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="110" 
+y="236" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>import </text>
+
+<text 
+x="168" 
+y="236" 
+dx="0,-0.3" 
+class="s6_66"
+>{ </text>
+
+<text 
+x="184" 
+y="236" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>targetLanguages </text>
+
+<text 
+x="317" 
+y="236" 
+dx="0,-0.3" 
+class="s6_66"
+>} </text>
+
+<text 
+x="333" 
+y="236" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_66"
+>from </text>
+
+<text 
+x="375" 
+y="236" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s8_66"
+>'../targetLanguages'</text>
+
+<text 
+x="540" 
+y="236" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,260.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<path d="M107.8,281.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="110" 
+y="277" 
+class="s6_66"
+>@</text>
+
+<text 
+x="118" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s10_66"
+>Component</text>
+
+<text 
+x="192" 
+y="277" 
+dx="0,0,-0.3" 
+class="s6_66"
+>({ </text>
+
+<path d="M107.8,302.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="143" 
+y="298" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_66"
+>selector: </text>
+
+<text 
+x="226" 
+y="298" 
+dx="0,-0.3,0,-0.3,0.1,-0.3,0,0,-0.3,0" 
+class="s8_66"
+>'app-base'</text>
+
+<text 
+x="308" 
+y="298" 
+dx="0,-0.3" 
+class="s6_66"
+>, </text>
+
+<path d="M107.8,322.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="143" 
+y="319" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_66"
+>templateUrl: </text>
+
+<text 
+x="250" 
+y="319" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s8_66"
+>'./base.component.html'</text>
+
+<text 
+x="441" 
+y="319" 
+dx="0,-0.3" 
+class="s6_66"
+>, </text>
+
+<path d="M107.8,343.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="339" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s7_66"
+>styleUrls: </text>
+
+<text 
+x="234" 
+y="339" 
+class="s6_66"
+>[</text>
+
+<text 
+x="242" 
+y="339" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s8_66"
+>'./base.component.css'</text>
+
+<text 
+x="424" 
+y="339" 
+dx="0,-0.3" 
+class="s6_66"
+>] </text>
+
+<path d="M107.8,363.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="110" 
+y="360" 
+dx="0,0,-0.3" 
+class="s6_66"
+>}) </text>
+
+<path d="M107.8,384.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<path d="M107.8,405.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="110" 
+y="401" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_66"
+>export </text>
+
+<text 
+x="168" 
+y="401" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s9_66"
+>class </text>
+
+<text 
+x="217" 
+y="401" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s11_66"
+>BaseComponent </text>
+
+<text 
+x="333" 
+y="401" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_66"
+>implements </text>
+
+<text 
+x="424" 
+y="401" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s11_66"
+>OnInit </text>
+
+<text 
+x="482" 
+y="401" 
+class="s6_66"
+>{ </text>
+
+<path d="M107.8,425.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<path d="M107.8,446.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="442" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_66"
+>public </text>
+
+<text 
+x="201" 
+y="442" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s7_66"
+>detectedLanguages </text>
+
+<text 
+x="350" 
+y="442" 
+dx="0,0,-0.3,0,-0.3,-0.3" 
+class="s6_66"
+>= []; </text>
+
+<path d="M107.8,467.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="143" 
+y="463" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_66"
+>public </text>
+
+<text 
+x="201" 
+y="463" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_66"
+>targetLanguages </text>
+
+<text 
+x="333" 
+y="463" 
+class="s6_66"
+>= </text>
+
+<text 
+x="350" 
+y="463" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>targetLanguages</text>
+
+<text 
+x="474" 
+y="463" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,487.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="143" 
+y="484" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_66"
+>public </text>
+
+<text 
+x="201" 
+y="484" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_66"
+>targetedLanguage </text>
+
+<text 
+x="342" 
+y="484" 
+dx="0,-0.3" 
+class="s6_66"
+>= </text>
+
+<text 
+x="358" 
+y="484" 
+dx="0,-0.3,0,-0.3" 
+class="s8_66"
+>'en'</text>
+
+<text 
+x="391" 
+y="484" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,508.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<path d="M107.8,528.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="525" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_66"
+>constructor</text>
+
+<text 
+x="234" 
+y="525" 
+dx="0,0,-0.3,0,-0.3,-0.3" 
+class="s6_66"
+>() {} </text>
+
+<path d="M107.8,549.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<path d="M107.8,570.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="143" 
+y="566" 
+class="s6_66"
+>@</text>
+
+<text 
+x="151" 
+y="566" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s10_66"
+>ViewChild</text>
+
+<text 
+x="226" 
+y="566" 
+class="s6_66"
+>(</text>
+
+<text 
+x="234" 
+y="566" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s8_66"
+>'target'</text>
+
+<text 
+x="300" 
+y="566" 
+dx="0,-0.3" 
+class="s6_66"
+>) </text>
+
+<text 
+x="317" 
+y="566" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s7_66"
+>target</text>
+
+<text 
+x="366" 
+y="566" 
+class="s6_66"
+>: </text>
+
+<text 
+x="383" 
+y="566" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s11_66"
+>ElementRef</text>
+
+<text 
+x="466" 
+y="566" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,590.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="587" 
+class="s6_66"
+>@</text>
+
+<text 
+x="151" 
+y="587" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s10_66"
+>ViewChild</text>
+
+<text 
+x="226" 
+y="587" 
+class="s6_66"
+>(</text>
+
+<text 
+x="234" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s8_66"
+>'destinationTranslation'</text>
+
+<text 
+x="433" 
+y="587" 
+class="s6_66"
+>) </text>
+
+<text 
+x="449" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>destinationTranslation</text>
+
+<text 
+x="631" 
+y="587" 
+dx="0,-0.3" 
+class="s6_66"
+>: </text>
+
+<text 
+x="648" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s11_66"
+>ElementRef</text>
+
+<text 
+x="731" 
+y="587" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,611.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="607" 
+class="s6_66"
+>@</text>
+
+<text 
+x="151" 
+y="607" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s10_66"
+>ViewChild</text>
+
+<text 
+x="226" 
+y="607" 
+class="s6_66"
+>(</text>
+
+<text 
+x="234" 
+y="607" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s8_66"
+>'translateBtn'</text>
+
+<text 
+x="350" 
+y="607" 
+class="s6_66"
+>) </text>
+
+<text 
+x="366" 
+y="607" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_66"
+>translateBtn</text>
+
+<text 
+x="466" 
+y="607" 
+class="s6_66"
+>: </text>
+
+<text 
+x="482" 
+y="607" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s11_66"
+>ElementRef</text>
+
+<text 
+x="565" 
+y="607" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,632.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="143" 
+y="628" 
+class="s6_66"
+>@</text>
+
+<text 
+x="151" 
+y="628" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s10_66"
+>ViewChild</text>
+
+<text 
+x="226" 
+y="628" 
+class="s6_66"
+>(</text>
+
+<text 
+x="234" 
+y="628" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_66"
+>'clearTarget'</text>
+
+<text 
+x="342" 
+y="628" 
+dx="0,-0.3" 
+class="s6_66"
+>) </text>
+
+<text 
+x="358" 
+y="628" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s7_66"
+>clearTarget</text>
+
+<text 
+x="449" 
+y="628" 
+class="s6_66"
+>: </text>
+
+<text 
+x="466" 
+y="628" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s11_66"
+>ElementRef</text>
+
+<text 
+x="548" 
+y="628" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,652.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<path d="M107.8,673.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="669" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s10_66"
+>ngOnInit</text>
+
+<text 
+x="209" 
+y="669" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s6_66"
+>() {} </text>
+
+<path d="M107.8,693.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<path d="M107.8,714.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="143" 
+y="710" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_66"
+>public </text>
+
+<text 
+x="201" 
+y="710" 
+dx="0,-0.3,0,0,-0.3" 
+class="s10_66"
+>enter</text>
+
+<text 
+x="242" 
+y="710" 
+class="s6_66"
+>(</text>
+
+<text 
+x="250" 
+y="710" 
+dx="0,0,-0.3,0,0" 
+class="s7_66"
+>event</text>
+
+<text 
+x="292" 
+y="710" 
+dx="0,0,-0.3,-0.3" 
+class="s6_66"
+>) { </text>
+
+<path d="M107.8,735.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="176" 
+y="731" 
+dx="0,0,-0.3" 
+class="s5_66"
+>if </text>
+
+<text 
+x="201" 
+y="731" 
+class="s6_66"
+>(</text>
+
+<text 
+x="209" 
+y="731" 
+dx="0,0,0,-0.3,0" 
+class="s7_66"
+>event</text>
+
+<text 
+x="250" 
+y="731" 
+class="s6_66"
+>.</text>
+
+<text 
+x="259" 
+y="731" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_66"
+>keyCode </text>
+
+<text 
+x="325" 
+y="731" 
+dx="0,0,0,-0.3" 
+class="s6_66"
+>=== </text>
+
+<text 
+x="358" 
+y="731" 
+dx="0,-0.3,0" 
+class="s12_66"
+>13 </text>
+
+<text 
+x="383" 
+y="731" 
+class="s6_66"
+>&amp;&amp; </text>
+
+<text 
+x="408" 
+y="731" 
+dx="0,0,-0.3,0,0" 
+class="s7_66"
+>event</text>
+
+<text 
+x="449" 
+y="731" 
+class="s6_66"
+>.</text>
+
+<text 
+x="457" 
+y="731" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>shiftKey </text>
+
+<text 
+x="532" 
+y="731" 
+dx="0,0,-0.3,0" 
+class="s6_66"
+>=== </text>
+
+<text 
+x="565" 
+y="731" 
+dx="0,0,-0.3,0,0" 
+class="s9_66"
+>false</text>
+
+<text 
+x="606" 
+y="731" 
+dx="0,0,-0.3,-0.3" 
+class="s6_66"
+>) { </text>
+
+<path d="M107.8,755.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="209" 
+y="752" 
+dx="0,0,0,-0.3,0" 
+class="s7_66"
+>event</text>
+
+<text 
+x="250" 
+y="752" 
+class="s6_66"
+>.</text>
+
+<text 
+x="259" 
+y="752" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s10_66"
+>preventDefault</text>
+
+<text 
+x="375" 
+y="752" 
+dx="0,-0.3,0,-0.3" 
+class="s6_66"
+>(); </text>
+
+<path d="M107.8,776.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="209" 
+y="772" 
+dx="0,0,0,-0.3" 
+class="s9_66"
+>this</text>
+
+<text 
+x="242" 
+y="772" 
+class="s6_66"
+>.</text>
+
+<text 
+x="250" 
+y="772" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_66"
+>clicked</text>
+
+<text 
+x="308" 
+y="772" 
+dx="0,0,-0.3,-0.3" 
+class="s6_66"
+>(); </text>
+
+<path d="M107.8,797.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="176" 
+y="793" 
+dx="0,-0.3" 
+class="s6_66"
+>} </text>
+
+<path d="M107.8,817.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="143" 
+y="814" 
+dx="0,-0.3" 
+class="s6_66"
+>} </text>
+
+<path d="M107.8,838.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<path d="M107.8,858.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="143" 
+y="855" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_66"
+>public </text>
+
+<text 
+x="201" 
+y="855" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s10_66"
+>clicked</text>
+
+<text 
+x="259" 
+y="855" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_66"
+>() { </text>
+
+<path d="M107.8,879.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="176" 
+y="875" 
+dx="0,0,-0.3,0" 
+class="s9_66"
+>this</text>
+
+<text 
+x="209" 
+y="875" 
+class="s6_66"
+>.</text>
+
+<text 
+x="217" 
+y="875" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_66"
+>detectedLanguages </text>
+
+<text 
+x="366" 
+y="875" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s6_66"
+>= []; </text>
+
+<path d="M107.8,900.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="176" 
+y="896" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s13_66"
+>// Reject empty strings or just spaces </text>
+
+<path d="M107.8,920.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="176" 
+y="917" 
+dx="0,0,-0.3,0" 
+class="s9_66"
+>let </text>
+
+<text 
+x="209" 
+y="917" 
+dx="0,0,0,-0.3,0" 
+class="s7_66"
+>text </text>
+
+<text 
+x="250" 
+y="917" 
+class="s6_66"
+>= </text>
+
+<text 
+x="267" 
+y="917" 
+dx="0,0,0,-0.3" 
+class="s9_66"
+>this</text>
+
+<text 
+x="300" 
+y="917" 
+class="s6_66"
+>.</text>
+
+<text 
+x="308" 
+y="917" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s7_66"
+>target</text>
+
+<text 
+x="358" 
+y="917" 
+class="s6_66"
+>.</text>
+
+<text 
+x="366" 
+y="917" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>nativeElement</text>
+
+<text 
+x="474" 
+y="917" 
+class="s6_66"
+>.</text>
+
+<text 
+x="482" 
+y="917" 
+dx="0,0,0,-0.3,0" 
+class="s7_66"
+>value</text>
+
+<text 
+x="523" 
+y="917" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,941.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="176" 
+y="937" 
+dx="0,0,-0.3,0,-0.3" 
+class="s7_66"
+>text </text>
+
+<text 
+x="217" 
+y="937" 
+class="s6_66"
+>= </text>
+
+<text 
+x="234" 
+y="937" 
+dx="0,0,-0.3,0" 
+class="s7_66"
+>text</text>
+
+<text 
+x="267" 
+y="937" 
+class="s6_66"
+>.</text>
+
+<text 
+x="275" 
+y="937" 
+dx="0,0,-0.3,0,-0.3,0,-0.3" 
+class="s10_66"
+>replace</text>
+
+<text 
+x="333" 
+y="937" 
+class="s6_66"
+>(</text>
+
+<text 
+x="342" 
+y="937" 
+dx="0,-0.3,0" 
+class="s14_66"
+>/ /</text>
+
+<text 
+x="366" 
+y="937" 
+class="s9_66"
+>g</text>
+
+<text 
+x="375" 
+y="937" 
+dx="0,-0.3" 
+class="s6_66"
+>, </text>
+
+<text 
+x="391" 
+y="937" 
+class="s8_66"
+>''</text>
+
+<text 
+x="408" 
+y="937" 
+dx="0,0,-0.3" 
+class="s6_66"
+>); </text>
+
+<path d="M107.8,962.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<text 
+x="176" 
+y="958" 
+dx="0,0,-0.3" 
+class="s5_66"
+>if </text>
+
+<text 
+x="201" 
+y="958" 
+class="s6_66"
+>(</text>
+
+<text 
+x="209" 
+y="958" 
+dx="0,0,0,-0.3,0" 
+class="s7_66"
+>text </text>
+
+<text 
+x="250" 
+y="958" 
+dx="0,0,-0.3,0" 
+class="s6_66"
+>=== </text>
+
+<text 
+x="284" 
+y="958" 
+dx="0,-0.3" 
+class="s8_66"
+>''</text>
+
+<text 
+x="300" 
+y="958" 
+dx="0,-0.3,0,-0.3" 
+class="s6_66"
+>) { </text>
+
+<path d="M107.8,982.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="209" 
+y="979" 
+dx="0,0,0,-0.3" 
+class="s9_66"
+>this</text>
+
+<text 
+x="242" 
+y="979" 
+class="s6_66"
+>.</text>
+
+<text 
+x="250" 
+y="979" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s10_66"
+>clearAll</text>
+
+<text 
+x="317" 
+y="979" 
+dx="0,-0.3,0,-0.3" 
+class="s6_66"
+>(); </text>
+
+<path d="M107.8,1003.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="209" 
+y="999" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s5_66"
+>return</text>
+
+<text 
+x="259" 
+y="999" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+<path d="M107.8,1023.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_66" />
+<text 
+x="176" 
+y="1020" 
+dx="0,-0.3" 
+class="s6_66"
+>} </text>
+
+<path d="M107.8,1044.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_66" />
+<path d="M107.8,1065.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_66" />
+<text 
+x="176" 
+y="1061" 
+dx="0,0,-0.3,0" 
+class="s9_66"
+>this</text>
+
+<text 
+x="209" 
+y="1061" 
+class="s6_66"
+>.</text>
+
+<text 
+x="217" 
+y="1061" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>translateBtn</text>
+
+<text 
+x="317" 
+y="1061" 
+class="s6_66"
+>.</text>
+
+<text 
+x="325" 
+y="1061" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_66"
+>nativeElement</text>
+
+<text 
+x="433" 
+y="1061" 
+class="s6_66"
+>.</text>
+
+<text 
+x="441" 
+y="1061" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_66"
+>disabled </text>
+
+<text 
+x="515" 
+y="1061" 
+dx="0,-0.3" 
+class="s6_66"
+>= </text>
+
+<text 
+x="532" 
+y="1061" 
+dx="0,0,-0.3,0" 
+class="s9_66"
+>true</text>
+
+<text 
+x="565" 
+y="1061" 
+dx="0,-0.3" 
+class="s6_66"
+>; </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

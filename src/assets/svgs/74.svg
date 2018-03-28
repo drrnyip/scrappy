@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 74 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_74{
+fill: #D9D9D9;
+}
+.g2_74{
+fill: #FFFFFF;
+}
+
+.s1_74{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_74{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_74{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_74{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_74{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s6_74{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s7_74{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s8_74{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s9_74{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_74"
+>74 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_74"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_74" />
+<text 
+x="110" 
+y="127" 
+class="s3_74"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_74"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_74"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.6,1.4,1.5,1.4,1.4,1.4,1.6,1.3,1.6" 
+class="s4_74"
+>HOMOGRAPHS</text>
+
+<text 
+x="256" 
+y="127" 
+class="s3_74"
+>.</text>
+
+<text 
+x="262" 
+y="127" 
+dx="0,1.3" 
+class="s4_74"
+>TS</text>
+
+<path d="M107.8,157.7l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_74" />
+<text 
+x="110" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_74"
+>export </text>
+
+<text 
+x="168" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s6_74"
+>const </text>
+
+<text 
+x="217" 
+y="154" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_74"
+>homographs </text>
+
+<text 
+x="308" 
+y="154" 
+dx="0,0,-0.3,-0.3" 
+class="s8_74"
+>= [ </text>
+
+<path d="M107.8,178.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="174" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="174" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="174" 
+class="s9_74"
+>'a'</text>
+
+<text 
+x="234" 
+y="174" 
+class="s8_74"
+>, </text>
+
+<text 
+x="250" 
+y="174" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="333" 
+y="174" 
+class="s8_74"
+>[</text>
+
+<text 
+x="342" 
+y="174" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="375" 
+y="174" 
+dx="0,-0.3,0,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,198.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="195" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="195" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="195" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'air'</text>
+
+<text 
+x="250" 
+y="195" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="195" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="195" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="195" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="195" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,219.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="215" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="215" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="215" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'api'</text>
+
+<text 
+x="250" 
+y="215" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="215" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="215" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="215" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="215" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,240.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="236" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="236" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="236" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'aw'</text>
+
+<text 
+x="242" 
+y="236" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="236" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="236" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="236" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'pl'</text>
+
+<text 
+x="383" 
+y="236" 
+dx="0,0,0,-0.3,0" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,260.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="257" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="257" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="257" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'beg'</text>
+
+<text 
+x="250" 
+y="257" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="257" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="257" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="257" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="257" 
+class="s8_74"
+>, </text>
+
+<text 
+x="408" 
+y="257" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ku'</text>
+
+<text 
+x="441" 
+y="257" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,281.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="277" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="277" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'bila'</text>
+
+<text 
+x="259" 
+y="277" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="277" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="277" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="277" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,302.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="298" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="298" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="298" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'bola'</text>
+
+<text 
+x="259" 
+y="298" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="298" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="298" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="298" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="298" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="416" 
+y="298" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'sk'</text>
+
+<text 
+x="449" 
+y="298" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,322.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="319" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="319" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="319" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'cat'</text>
+
+<text 
+x="250" 
+y="319" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="319" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="319" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="319" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="319" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,343.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="339" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="339" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="339" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_74"
+>'change'</text>
+
+<text 
+x="275" 
+y="339" 
+class="s8_74"
+>, </text>
+
+<text 
+x="292" 
+y="339" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="375" 
+y="339" 
+class="s8_74"
+>[</text>
+
+<text 
+x="383" 
+y="339" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="416" 
+y="339" 
+dx="0,-0.3,0,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,363.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="360" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="360" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="360" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'con'</text>
+
+<text 
+x="250" 
+y="360" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="360" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="360" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="360" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="391" 
+y="360" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,384.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="380" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="380" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="380" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_74"
+>'courage'</text>
+
+<text 
+x="284" 
+y="380" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="300" 
+y="380" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="383" 
+y="380" 
+class="s8_74"
+>[</text>
+
+<text 
+x="391" 
+y="380" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="424" 
+y="380" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,405.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="401" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="401" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="401" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'cuba'</text>
+
+<text 
+x="259" 
+y="401" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="401" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="401" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="401" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="401" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,425.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="422" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="422" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="422" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'dan'</text>
+
+<text 
+x="250" 
+y="422" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="422" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="422" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="422" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="422" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,446.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="442" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="442" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="442" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'de'</text>
+
+<text 
+x="242" 
+y="442" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="442" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="442" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="442" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="383" 
+y="442" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,467.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="463" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="463" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="463" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'del'</text>
+
+<text 
+x="250" 
+y="463" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="463" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="463" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="463" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="391" 
+y="463" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,487.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="484" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="484" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="484" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'di'</text>
+
+<text 
+x="242" 
+y="484" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="484" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="484" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="484" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="383" 
+y="484" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,508.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="504" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="504" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="504" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'dia'</text>
+
+<text 
+x="250" 
+y="504" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="504" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="504" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="504" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="504" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,528.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="525" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="525" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="525" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'don'</text>
+
+<text 
+x="250" 
+y="525" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="525" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="525" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="525" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="391" 
+y="525" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,549.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="545" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="545" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="545" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s9_74"
+>'ember'</text>
+
+<text 
+x="267" 
+y="545" 
+class="s8_74"
+>, </text>
+
+<text 
+x="284" 
+y="545" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="366" 
+y="545" 
+class="s8_74"
+>[</text>
+
+<text 
+x="375" 
+y="545" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="408" 
+y="545" 
+class="s8_74"
+>, </text>
+
+<text 
+x="424" 
+y="545" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'hu'</text>
+
+<text 
+x="457" 
+y="545" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,570.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="566" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="566" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="566" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'en'</text>
+
+<text 
+x="242" 
+y="566" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="566" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="566" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="566" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="383" 
+y="566" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,590.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="587" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="587" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'era'</text>
+
+<text 
+x="250" 
+y="587" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="587" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="587" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="587" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="391" 
+y="587" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,611.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="607" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="607" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="607" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s9_74"
+>'geram'</text>
+
+<text 
+x="267" 
+y="607" 
+class="s8_74"
+>, </text>
+
+<text 
+x="284" 
+y="607" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="366" 
+y="607" 
+class="s8_74"
+>[</text>
+
+<text 
+x="375" 
+y="607" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="408" 
+y="607" 
+class="s8_74"
+>, </text>
+
+<text 
+x="424" 
+y="607" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'pt'</text>
+
+<text 
+x="457" 
+y="607" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,632.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="628" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="628" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="628" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'guru'</text>
+
+<text 
+x="259" 
+y="628" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="628" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="628" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="628" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="628" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,652.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="649" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="649" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="649" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s9_74"
+>'i\'ve'</text>
+
+<text 
+x="267" 
+y="649" 
+class="s8_74"
+>, </text>
+
+<text 
+x="284" 
+y="649" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="366" 
+y="649" 
+class="s8_74"
+>[</text>
+
+<text 
+x="375" 
+y="649" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'en'</text>
+
+<text 
+x="408" 
+y="649" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,673.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="669" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="669" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="669" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'jaga'</text>
+
+<text 
+x="259" 
+y="669" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="669" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="669" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="669" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="669" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="416" 
+y="669" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'et'</text>
+
+<text 
+x="449" 
+y="669" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,693.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="690" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="690" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="690" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'jam'</text>
+
+<text 
+x="250" 
+y="690" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="690" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="690" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="690" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="690" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,714.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="710" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="710" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="710" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'je'</text>
+
+<text 
+x="242" 
+y="710" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="710" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="710" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="710" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="383" 
+y="710" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,735.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="731" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="731" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="731" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'kes'</text>
+
+<text 
+x="250" 
+y="731" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="731" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="731" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="731" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="731" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,755.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="752" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="752" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="752" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_74"
+>'khabar'</text>
+
+<text 
+x="275" 
+y="752" 
+class="s8_74"
+>, </text>
+
+<text 
+x="292" 
+y="752" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="375" 
+y="752" 
+class="s8_74"
+>[</text>
+
+<text 
+x="383" 
+y="752" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="416" 
+y="752" 
+dx="0,-0.3,0,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,776.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="772" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="772" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="772" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_74"
+>'klinik'</text>
+
+<text 
+x="275" 
+y="772" 
+class="s8_74"
+>, </text>
+
+<text 
+x="292" 
+y="772" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="375" 
+y="772" 
+class="s8_74"
+>[</text>
+
+<text 
+x="383" 
+y="772" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="416" 
+y="772" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="433" 
+y="772" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'de'</text>
+
+<text 
+x="466" 
+y="772" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,797.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="793" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="793" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'lain'</text>
+
+<text 
+x="259" 
+y="793" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="793" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="793" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="793" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,817.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="814" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="814" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="814" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'lama'</text>
+
+<text 
+x="259" 
+y="814" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="814" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="814" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="814" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="814" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,838.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="834" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="834" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="834" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'lima'</text>
+
+<text 
+x="259" 
+y="834" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="834" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="834" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="834" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="834" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,858.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="855" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="855" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="855" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'ma'</text>
+
+<text 
+x="242" 
+y="855" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="855" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="855" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="855" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="383" 
+y="855" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,879.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="875" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="875" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="875" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'mac'</text>
+
+<text 
+x="250" 
+y="875" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="875" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="875" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="875" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="391" 
+y="875" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,900.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="896" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="896" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="896" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'main'</text>
+
+<text 
+x="259" 
+y="896" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="896" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="896" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="896" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="896" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,920.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="917" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="917" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="917" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'mais'</text>
+
+<text 
+x="259" 
+y="917" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="917" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="917" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="917" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="400" 
+y="917" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,941.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="937" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="937" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="937" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'mas'</text>
+
+<text 
+x="250" 
+y="937" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="937" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="937" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="937" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="391" 
+y="937" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,962.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="958" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="958" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="958" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'me'</text>
+
+<text 
+x="242" 
+y="958" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="259" 
+y="958" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="342" 
+y="958" 
+class="s8_74"
+>[</text>
+
+<text 
+x="350" 
+y="958" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="383" 
+y="958" 
+dx="0,0,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,982.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="979" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="979" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="979" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'mijo'</text>
+
+<text 
+x="259" 
+y="979" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="979" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="979" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="979" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'es'</text>
+
+<text 
+x="400" 
+y="979" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="416" 
+y="979" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'hu'</text>
+
+<text 
+x="449" 
+y="979" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,1003.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="999" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="999" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="999" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_74"
+>'nasi'</text>
+
+<text 
+x="259" 
+y="999" 
+dx="0,-0.3" 
+class="s8_74"
+>, </text>
+
+<text 
+x="275" 
+y="999" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="358" 
+y="999" 
+class="s8_74"
+>[</text>
+
+<text 
+x="366" 
+y="999" 
+dx="0,0,-0.3,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="400" 
+y="999" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,1023.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_74" />
+<text 
+x="143" 
+y="1020" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="1020" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="1020" 
+dx="0,0,0,-0.3,0" 
+class="s9_74"
+>'non'</text>
+
+<text 
+x="250" 
+y="1020" 
+class="s8_74"
+>, </text>
+
+<text 
+x="267" 
+y="1020" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="350" 
+y="1020" 
+class="s8_74"
+>[</text>
+
+<text 
+x="358" 
+y="1020" 
+dx="0,-0.3,0,-0.3" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="391" 
+y="1020" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,1044.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_74" />
+<text 
+x="143" 
+y="1040" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="1040" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="1040" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_74"
+>'numero'</text>
+
+<text 
+x="275" 
+y="1040" 
+class="s8_74"
+>, </text>
+
+<text 
+x="292" 
+y="1040" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="375" 
+y="1040" 
+class="s8_74"
+>[</text>
+
+<text 
+x="383" 
+y="1040" 
+dx="0,0,0,-0.3" 
+class="s9_74"
+>'fr'</text>
+
+<text 
+x="416" 
+y="1040" 
+dx="0,-0.3,0,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+<path d="M107.8,1065.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_74" />
+<text 
+x="143" 
+y="1061" 
+dx="0,-0.3" 
+class="s8_74"
+>{ </text>
+
+<text 
+x="159" 
+y="1061" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_74"
+>word: </text>
+
+<text 
+x="209" 
+y="1061" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s9_74"
+>'orang'</text>
+
+<text 
+x="267" 
+y="1061" 
+class="s8_74"
+>, </text>
+
+<text 
+x="284" 
+y="1061" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_74"
+>language: </text>
+
+<text 
+x="366" 
+y="1061" 
+class="s8_74"
+>[</text>
+
+<text 
+x="375" 
+y="1061" 
+dx="0,-0.3,0,0" 
+class="s9_74"
+>'ms'</text>
+
+<text 
+x="408" 
+y="1061" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_74"
+>] }, </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

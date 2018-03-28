@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 76 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_76{
+fill: #D9D9D9;
+}
+.g2_76{
+fill: #FFFFFF;
+}
+
+.s1_76{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_76{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_76{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_76{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s6_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s7_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s8_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+.s9_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s10_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #795E26;
+}
+.s11_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+.s12_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #09885A;
+}
+.s13_76{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #267F99;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_76"
+>76 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_76"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_76" />
+<text 
+x="110" 
+y="127" 
+class="s3_76"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_76"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_76"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.6,1.6,1.4,1.6" 
+class="s4_76"
+>INDEX</text>
+
+<text 
+x="196" 
+y="127" 
+class="s3_76"
+>.</text>
+
+<text 
+x="202" 
+y="127" 
+dx="0,1.3" 
+class="s4_76"
+>TS</text>
+
+<path d="M107.8,157.7l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_76" />
+<text 
+x="110" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="154" 
+dx="0,-0.3" 
+class="s6_76"
+>* </text>
+
+<text 
+x="184" 
+y="154" 
+dx="0,-0.3,0" 
+class="s5_76"
+>as </text>
+
+<text 
+x="209" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>functions </text>
+
+<text 
+x="292" 
+y="154" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_76"
+>from </text>
+
+<text 
+x="333" 
+y="154" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_76"
+>"firebase-functions"</text>
+
+<text 
+x="499" 
+y="154" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,178.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="174" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="174" 
+dx="0,-0.3" 
+class="s6_76"
+>* </text>
+
+<text 
+x="184" 
+y="174" 
+dx="0,-0.3,0" 
+class="s5_76"
+>as </text>
+
+<text 
+x="209" 
+y="174" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>express </text>
+
+<text 
+x="275" 
+y="174" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_76"
+>from </text>
+
+<text 
+x="317" 
+y="174" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_76"
+>"express"</text>
+
+<text 
+x="391" 
+y="174" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,198.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="195" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="195" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<text 
+x="184" 
+y="195" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>translator </text>
+
+<text 
+x="275" 
+y="195" 
+class="s9_76"
+>} </text>
+
+<text 
+x="292" 
+y="195" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_76"
+>from </text>
+
+<text 
+x="333" 
+y="195" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s8_76"
+>"./translator"</text>
+
+<text 
+x="449" 
+y="195" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,219.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="110" 
+y="215" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="215" 
+dx="0,-0.3" 
+class="s6_76"
+>* </text>
+
+<text 
+x="184" 
+y="215" 
+dx="0,-0.3,0" 
+class="s5_76"
+>as </text>
+
+<text 
+x="209" 
+y="215" 
+dx="0,0,0,-0.3,0" 
+class="s7_76"
+>cors </text>
+
+<text 
+x="250" 
+y="215" 
+dx="0,0,-0.3,0,0" 
+class="s5_76"
+>from </text>
+
+<text 
+x="292" 
+y="215" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s8_76"
+>"cors"</text>
+
+<text 
+x="342" 
+y="215" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,240.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="236" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="236" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<text 
+x="184" 
+y="236" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s7_76"
+>dirname </text>
+
+<text 
+x="250" 
+y="236" 
+class="s9_76"
+>} </text>
+
+<text 
+x="267" 
+y="236" 
+dx="0,0,0,-0.3,0" 
+class="s5_76"
+>from </text>
+
+<text 
+x="308" 
+y="236" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s8_76"
+>"path"</text>
+
+<text 
+x="358" 
+y="236" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,260.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="257" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s6_76"
+>const </text>
+
+<text 
+x="159" 
+y="257" 
+dx="0,0,-0.3" 
+class="s7_76"
+>fs </text>
+
+<text 
+x="184" 
+y="257" 
+dx="0,-0.3" 
+class="s9_76"
+>= </text>
+
+<text 
+x="201" 
+y="257" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s10_76"
+>require</text>
+
+<text 
+x="259" 
+y="257" 
+class="s9_76"
+>(</text>
+
+<text 
+x="267" 
+y="257" 
+dx="0,0,0,-0.3" 
+class="s8_76"
+>'fs'</text>
+
+<text 
+x="300" 
+y="257" 
+dx="0,-0.3,-0.3" 
+class="s9_76"
+>); </text>
+
+<path d="M107.8,281.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="277" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>import </text>
+
+<text 
+x="168" 
+y="277" 
+dx="0,-0.3" 
+class="s6_76"
+>* </text>
+
+<text 
+x="184" 
+y="277" 
+dx="0,-0.3,0" 
+class="s5_76"
+>as </text>
+
+<text 
+x="209" 
+y="277" 
+dx="0,0,0,-0.3,0" 
+class="s7_76"
+>util </text>
+
+<text 
+x="250" 
+y="277" 
+dx="0,0,-0.3,0,0" 
+class="s5_76"
+>from </text>
+
+<text 
+x="292" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s8_76"
+>'util'</text>
+
+<text 
+x="342" 
+y="277" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,302.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<path d="M107.8,322.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="319" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s6_76"
+>const </text>
+
+<text 
+x="159" 
+y="319" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>inspect </text>
+
+<text 
+x="226" 
+y="319" 
+dx="0,-0.3" 
+class="s9_76"
+>= </text>
+
+<text 
+x="242" 
+y="319" 
+dx="0,-0.3,0,-0.3" 
+class="s7_76"
+>util</text>
+
+<text 
+x="275" 
+y="319" 
+class="s9_76"
+>.</text>
+
+<text 
+x="284" 
+y="319" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>inspect</text>
+
+<text 
+x="342" 
+y="319" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,343.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="339" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.5" 
+class="s11_76"
+>/* Express with CORS &amp; automatic trailing '/' solution */ </text>
+
+<path d="M107.8,363.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="360" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s6_76"
+>const </text>
+
+<text 
+x="159" 
+y="360" 
+dx="0,0,-0.3,0" 
+class="s7_76"
+>app </text>
+
+<text 
+x="192" 
+y="360" 
+class="s9_76"
+>= </text>
+
+<text 
+x="209" 
+y="360" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s10_76"
+>express</text>
+
+<text 
+x="267" 
+y="360" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>(); </text>
+
+<path d="M107.8,384.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="110" 
+y="380" 
+class="s7_76"
+>app</text>
+
+<text 
+x="134" 
+y="380" 
+class="s9_76"
+>.</text>
+
+<text 
+x="143" 
+y="380" 
+dx="0,-0.3,0" 
+class="s10_76"
+>use</text>
+
+<text 
+x="168" 
+y="380" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="380" 
+dx="0,0,-0.3,0" 
+class="s10_76"
+>cors</text>
+
+<text 
+x="209" 
+y="380" 
+class="s9_76"
+>({ </text>
+
+<text 
+x="234" 
+y="380" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>origin: </text>
+
+<text 
+x="300" 
+y="380" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_76"
+>true </text>
+
+<text 
+x="342" 
+y="380" 
+dx="0,-0.3,0,-0.3,-0.3" 
+class="s9_76"
+>})); </text>
+
+<path d="M107.8,405.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<path d="M107.8,425.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="422" 
+class="s7_76"
+>app</text>
+
+<text 
+x="134" 
+y="422" 
+class="s9_76"
+>.</text>
+
+<text 
+x="143" 
+y="422" 
+dx="0,-0.3,0" 
+class="s10_76"
+>get</text>
+
+<text 
+x="168" 
+y="422" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="422" 
+dx="0,0,-0.3" 
+class="s8_76"
+>"/"</text>
+
+<text 
+x="201" 
+y="422" 
+dx="0,-0.3,0" 
+class="s9_76"
+>, (</text>
+
+<text 
+x="226" 
+y="422" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="284" 
+y="422" 
+dx="0,-0.3" 
+class="s9_76"
+>, </text>
+
+<text 
+x="300" 
+y="422" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="366" 
+y="422" 
+class="s9_76"
+>) </text>
+
+<text 
+x="383" 
+y="422" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="408" 
+y="422" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,446.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="442" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="192" 
+y="442" 
+class="s9_76"
+>.</text>
+
+<text 
+x="201" 
+y="442" 
+dx="0,-0.3,0,0.1" 
+class="s10_76"
+>send</text>
+
+<text 
+x="234" 
+y="442" 
+class="s9_76"
+>(</text>
+
+<text 
+x="242" 
+y="442" 
+dx="0,-0.3,0,-0.3,0,0.1,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s8_76"
+>"Code-Switch Translator API - /api/&amp;#60;query&amp;#62;"</text>
+
+<text 
+x="664" 
+y="442" 
+dx="0,0,-0.3" 
+class="s9_76"
+>); </text>
+
+<path d="M107.8,467.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="110" 
+y="463" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>}); </text>
+
+<path d="M107.8,487.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<path d="M107.8,508.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="504" 
+class="s7_76"
+>app</text>
+
+<text 
+x="134" 
+y="504" 
+class="s9_76"
+>.</text>
+
+<text 
+x="143" 
+y="504" 
+dx="0,-0.3,0" 
+class="s10_76"
+>get</text>
+
+<text 
+x="168" 
+y="504" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="504" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s8_76"
+>"/:api/:query"</text>
+
+<text 
+x="292" 
+y="504" 
+dx="0,0,-0.3" 
+class="s9_76"
+>, (</text>
+
+<text 
+x="317" 
+y="504" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>request</text>
+
+<text 
+x="375" 
+y="504" 
+dx="0,-0.3" 
+class="s9_76"
+>, </text>
+
+<text 
+x="391" 
+y="504" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>response</text>
+
+<text 
+x="457" 
+y="504" 
+dx="0,-0.3" 
+class="s9_76"
+>) </text>
+
+<text 
+x="474" 
+y="504" 
+dx="0,-0.3,0" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="499" 
+y="504" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,528.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="525" 
+class="s9_76"
+>(</text>
+
+<text 
+x="134" 
+y="525" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s6_76"
+>async </text>
+
+<text 
+x="184" 
+y="525" 
+dx="0,-0.3,0" 
+class="s9_76"
+>() </text>
+
+<text 
+x="209" 
+y="525" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="234" 
+y="525" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,549.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="143" 
+y="545" 
+dx="0,-0.3,0" 
+class="s5_76"
+>if </text>
+
+<text 
+x="168" 
+y="545" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="545" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="234" 
+y="545" 
+class="s9_76"
+>.</text>
+
+<text 
+x="242" 
+y="545" 
+dx="0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>params</text>
+
+<text 
+x="292" 
+y="545" 
+class="s9_76"
+>.</text>
+
+<text 
+x="300" 
+y="545" 
+dx="0,-0.3,0,-0.3" 
+class="s7_76"
+>api </text>
+
+<text 
+x="333" 
+y="545" 
+dx="0,0,-0.3,0" 
+class="s9_76"
+>=== </text>
+
+<text 
+x="366" 
+y="545" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s8_76"
+>"api" </text>
+
+<text 
+x="416" 
+y="545" 
+dx="0,-0.3,0" 
+class="s9_76"
+>&amp;&amp; </text>
+
+<text 
+x="441" 
+y="545" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="499" 
+y="545" 
+class="s9_76"
+>.</text>
+
+<text 
+x="507" 
+y="545" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="557" 
+y="545" 
+class="s9_76"
+>.</text>
+
+<text 
+x="565" 
+y="545" 
+dx="0,0,-0.3,0,0" 
+class="s7_76"
+>query</text>
+
+<text 
+x="606" 
+y="545" 
+class="s9_76"
+>.</text>
+
+<text 
+x="615" 
+y="545" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>length </text>
+
+<text 
+x="673" 
+y="545" 
+dx="0,-0.3" 
+class="s9_76"
+>&gt; </text>
+
+<text 
+x="689" 
+y="545" 
+class="s12_76"
+>0</text>
+
+<text 
+x="697" 
+y="545" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>) { </text>
+
+<path d="M107.8,570.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="159" 
+y="566" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s6_76"
+>const </text>
+
+<text 
+x="209" 
+y="566" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>target </text>
+
+<text 
+x="267" 
+y="566" 
+class="s9_76"
+>= </text>
+
+<text 
+x="284" 
+y="566" 
+dx="0,-0.3,0,-0.3" 
+class="s8_76"
+>'en'</text>
+
+<text 
+x="317" 
+y="566" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,590.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="159" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="226" 
+y="587" 
+class="s9_76"
+>.</text>
+
+<text 
+x="234" 
+y="587" 
+dx="0,0,-0.3,0" 
+class="s10_76"
+>send</text>
+
+<text 
+x="267" 
+y="587" 
+class="s9_76"
+>(</text>
+
+<text 
+x="275" 
+y="587" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>await </text>
+
+<text 
+x="325" 
+y="587" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s10_76"
+>translator</text>
+
+<text 
+x="408" 
+y="587" 
+class="s9_76"
+>(</text>
+
+<text 
+x="416" 
+y="587" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>request</text>
+
+<text 
+x="474" 
+y="587" 
+class="s9_76"
+>.</text>
+
+<text 
+x="482" 
+y="587" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="532" 
+y="587" 
+class="s9_76"
+>.</text>
+
+<text 
+x="540" 
+y="587" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_76"
+>query</text>
+
+<text 
+x="581" 
+y="587" 
+class="s9_76"
+>, </text>
+
+<text 
+x="598" 
+y="587" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>target</text>
+
+<text 
+x="648" 
+y="587" 
+dx="0,0,-0.3,-0.3" 
+class="s9_76"
+>)); </text>
+
+<path d="M107.8,611.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="143" 
+y="607" 
+dx="0,-0.3" 
+class="s9_76"
+>} </text>
+
+<text 
+x="159" 
+y="607" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_76"
+>else </text>
+
+<text 
+x="201" 
+y="607" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,632.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="159" 
+y="628" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="226" 
+y="628" 
+class="s9_76"
+>.</text>
+
+<text 
+x="234" 
+y="628" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_76"
+>sendFile</text>
+
+<text 
+x="300" 
+y="628" 
+class="s9_76"
+>(</text>
+
+<text 
+x="308" 
+y="628" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>__dirname </text>
+
+<text 
+x="391" 
+y="628" 
+class="s9_76"
+>+ </text>
+
+<text 
+x="408" 
+y="628" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_76"
+>'/404.html'</text>
+
+<text 
+x="499" 
+y="628" 
+dx="0,-0.3,-0.3" 
+class="s9_76"
+>); </text>
+
+<path d="M107.8,652.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="143" 
+y="649" 
+dx="0,-0.3" 
+class="s9_76"
+>} </text>
+
+<path d="M107.8,673.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="669" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s9_76"
+>})(); </text>
+
+<path d="M107.8,693.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="690" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>}); </text>
+
+<path d="M107.8,714.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<path d="M107.8,735.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="731" 
+class="s7_76"
+>app</text>
+
+<text 
+x="134" 
+y="731" 
+class="s9_76"
+>.</text>
+
+<text 
+x="143" 
+y="731" 
+dx="0,-0.3,0" 
+class="s10_76"
+>get</text>
+
+<text 
+x="168" 
+y="731" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="731" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s8_76"
+>"/:api/:query/:target"</text>
+
+<text 
+x="358" 
+y="731" 
+dx="0,-0.3,0" 
+class="s9_76"
+>, (</text>
+
+<text 
+x="383" 
+y="731" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="441" 
+y="731" 
+dx="0,-0.3" 
+class="s9_76"
+>, </text>
+
+<text 
+x="457" 
+y="731" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="523" 
+y="731" 
+class="s9_76"
+>) </text>
+
+<text 
+x="540" 
+y="731" 
+dx="0,-0.3,0" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="565" 
+y="731" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,755.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="752" 
+class="s9_76"
+>(</text>
+
+<text 
+x="134" 
+y="752" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s6_76"
+>async </text>
+
+<text 
+x="184" 
+y="752" 
+dx="0,-0.3,0" 
+class="s9_76"
+>() </text>
+
+<text 
+x="209" 
+y="752" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="234" 
+y="752" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,776.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="143" 
+y="772" 
+dx="0,-0.3,0" 
+class="s5_76"
+>if </text>
+
+<text 
+x="168" 
+y="772" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="772" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="234" 
+y="772" 
+class="s9_76"
+>.</text>
+
+<text 
+x="242" 
+y="772" 
+dx="0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>params</text>
+
+<text 
+x="292" 
+y="772" 
+class="s9_76"
+>.</text>
+
+<text 
+x="300" 
+y="772" 
+dx="0,-0.3,0,-0.3" 
+class="s7_76"
+>api </text>
+
+<text 
+x="333" 
+y="772" 
+dx="0,0,-0.3,0" 
+class="s9_76"
+>=== </text>
+
+<text 
+x="366" 
+y="772" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s8_76"
+>"api" </text>
+
+<text 
+x="416" 
+y="772" 
+dx="0,-0.3,0" 
+class="s9_76"
+>&amp;&amp; </text>
+
+<text 
+x="441" 
+y="772" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="499" 
+y="772" 
+class="s9_76"
+>.</text>
+
+<text 
+x="507" 
+y="772" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="557" 
+y="772" 
+class="s9_76"
+>.</text>
+
+<text 
+x="565" 
+y="772" 
+dx="0,0,-0.3,0,0" 
+class="s7_76"
+>query</text>
+
+<text 
+x="606" 
+y="772" 
+class="s9_76"
+>.</text>
+
+<text 
+x="615" 
+y="772" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>length </text>
+
+<text 
+x="673" 
+y="772" 
+dx="0,-0.3" 
+class="s9_76"
+>&gt; </text>
+
+<text 
+x="689" 
+y="772" 
+class="s12_76"
+>0</text>
+
+<text 
+x="697" 
+y="772" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>) { </text>
+
+<path d="M107.8,797.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="159" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s6_76"
+>const </text>
+
+<text 
+x="209" 
+y="793" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>target</text>
+
+<text 
+x="259" 
+y="793" 
+dx="0,-0.3" 
+class="s9_76"
+>: </text>
+
+<text 
+x="275" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0,-0.3" 
+class="s13_76"
+>string </text>
+
+<text 
+x="333" 
+y="793" 
+class="s9_76"
+>= </text>
+
+<text 
+x="350" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="408" 
+y="793" 
+class="s9_76"
+>.</text>
+
+<text 
+x="416" 
+y="793" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s7_76"
+>params</text>
+
+<text 
+x="466" 
+y="793" 
+class="s9_76"
+>.</text>
+
+<text 
+x="474" 
+y="793" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>target </text>
+
+<text 
+x="532" 
+y="793" 
+dx="0,0,-0.3,0" 
+class="s9_76"
+>!== </text>
+
+<text 
+x="565" 
+y="793" 
+dx="0,0,-0.3" 
+class="s8_76"
+>'' </text>
+
+<text 
+x="590" 
+y="793" 
+class="s9_76"
+>? </text>
+
+<text 
+x="606" 
+y="793" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="664" 
+y="793" 
+class="s9_76"
+>.</text>
+
+<text 
+x="673" 
+y="793" 
+dx="0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>params</text>
+
+<text 
+x="722" 
+y="793" 
+class="s9_76"
+>.</text>
+
+<text 
+x="731" 
+y="793" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>target </text>
+
+<text 
+x="789" 
+y="793" 
+dx="0,-0.3" 
+class="s9_76"
+>: </text>
+
+<path d="M107.8,817.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="814" 
+class="s8_76"
+>''</text>
+
+<text 
+x="126" 
+y="814" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+<path d="M107.8,838.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="159" 
+y="834" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="226" 
+y="834" 
+class="s9_76"
+>.</text>
+
+<text 
+x="234" 
+y="834" 
+dx="0,0,-0.3,0" 
+class="s10_76"
+>send</text>
+
+<text 
+x="267" 
+y="834" 
+class="s9_76"
+>(</text>
+
+<text 
+x="275" 
+y="834" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s5_76"
+>await </text>
+
+<text 
+x="325" 
+y="834" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s10_76"
+>translator</text>
+
+<text 
+x="408" 
+y="834" 
+class="s9_76"
+>(</text>
+
+<text 
+x="416" 
+y="834" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>request</text>
+
+<text 
+x="474" 
+y="834" 
+class="s9_76"
+>.</text>
+
+<text 
+x="482" 
+y="834" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="532" 
+y="834" 
+class="s9_76"
+>.</text>
+
+<text 
+x="540" 
+y="834" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_76"
+>query</text>
+
+<text 
+x="581" 
+y="834" 
+class="s9_76"
+>, </text>
+
+<text 
+x="598" 
+y="834" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>target</text>
+
+<text 
+x="648" 
+y="834" 
+dx="0,0,-0.3,-0.3" 
+class="s9_76"
+>)); </text>
+
+<path d="M107.8,858.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="143" 
+y="855" 
+dx="0,-0.3" 
+class="s9_76"
+>} </text>
+
+<text 
+x="159" 
+y="855" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_76"
+>else </text>
+
+<text 
+x="201" 
+y="855" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,879.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="159" 
+y="875" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>response</text>
+
+<text 
+x="226" 
+y="875" 
+class="s9_76"
+>.</text>
+
+<text 
+x="234" 
+y="875" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_76"
+>sendFile</text>
+
+<text 
+x="300" 
+y="875" 
+class="s9_76"
+>(</text>
+
+<text 
+x="308" 
+y="875" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_76"
+>__dirname </text>
+
+<text 
+x="391" 
+y="875" 
+class="s9_76"
+>+ </text>
+
+<text 
+x="408" 
+y="875" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_76"
+>'/404.html'</text>
+
+<text 
+x="499" 
+y="875" 
+dx="0,-0.3,-0.3" 
+class="s9_76"
+>); </text>
+
+<path d="M107.8,900.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="143" 
+y="896" 
+dx="0,-0.3" 
+class="s9_76"
+>} </text>
+
+<path d="M107.8,920.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="917" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s9_76"
+>})(); </text>
+
+<path d="M107.8,941.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="110" 
+y="937" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>}); </text>
+
+<path d="M107.8,962.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<path d="M107.8,982.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="979" 
+class="s7_76"
+>app</text>
+
+<text 
+x="134" 
+y="979" 
+class="s9_76"
+>.</text>
+
+<text 
+x="143" 
+y="979" 
+dx="0,-0.3,0" 
+class="s10_76"
+>get</text>
+
+<text 
+x="168" 
+y="979" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="979" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s8_76"
+>"/:api/:query/:target/:disablelogs"</text>
+
+<text 
+x="466" 
+y="979" 
+dx="0,0,-0.3" 
+class="s9_76"
+>, (</text>
+
+<text 
+x="490" 
+y="979" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="548" 
+y="979" 
+class="s9_76"
+>, </text>
+
+<text 
+x="565" 
+y="979" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_76"
+>response</text>
+
+<text 
+x="631" 
+y="979" 
+dx="0,-0.3" 
+class="s9_76"
+>) </text>
+
+<text 
+x="648" 
+y="979" 
+dx="0,0,-0.3" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="673" 
+y="979" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,1003.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="126" 
+y="999" 
+class="s9_76"
+>(</text>
+
+<text 
+x="134" 
+y="999" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s6_76"
+>async </text>
+
+<text 
+x="184" 
+y="999" 
+dx="0,-0.3,0" 
+class="s9_76"
+>() </text>
+
+<text 
+x="209" 
+y="999" 
+class="s6_76"
+>=&gt; </text>
+
+<text 
+x="234" 
+y="999" 
+dx="0,-0.3" 
+class="s9_76"
+>{ </text>
+
+<path d="M107.8,1023.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_76" />
+<text 
+x="143" 
+y="1020" 
+dx="0,-0.3,0" 
+class="s5_76"
+>if </text>
+
+<text 
+x="168" 
+y="1020" 
+class="s9_76"
+>(</text>
+
+<text 
+x="176" 
+y="1020" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="234" 
+y="1020" 
+class="s9_76"
+>.</text>
+
+<text 
+x="242" 
+y="1020" 
+dx="0,-0.3,0,-0.3,0,0" 
+class="s7_76"
+>params</text>
+
+<text 
+x="292" 
+y="1020" 
+class="s9_76"
+>.</text>
+
+<text 
+x="300" 
+y="1020" 
+dx="0,-0.3,0,-0.3" 
+class="s7_76"
+>api </text>
+
+<text 
+x="333" 
+y="1020" 
+dx="0,0,-0.3,0" 
+class="s9_76"
+>=== </text>
+
+<text 
+x="366" 
+y="1020" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s8_76"
+>"api" </text>
+
+<text 
+x="416" 
+y="1020" 
+dx="0,-0.3,0" 
+class="s9_76"
+>&amp;&amp; </text>
+
+<text 
+x="441" 
+y="1020" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_76"
+>request</text>
+
+<text 
+x="499" 
+y="1020" 
+class="s9_76"
+>.</text>
+
+<text 
+x="507" 
+y="1020" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="557" 
+y="1020" 
+class="s9_76"
+>.</text>
+
+<text 
+x="565" 
+y="1020" 
+dx="0,0,-0.3,0,0" 
+class="s7_76"
+>query</text>
+
+<text 
+x="606" 
+y="1020" 
+class="s9_76"
+>.</text>
+
+<text 
+x="615" 
+y="1020" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>length </text>
+
+<text 
+x="673" 
+y="1020" 
+dx="0,-0.3" 
+class="s9_76"
+>&gt; </text>
+
+<text 
+x="689" 
+y="1020" 
+class="s12_76"
+>0</text>
+
+<text 
+x="697" 
+y="1020" 
+dx="0,0,0,-0.3" 
+class="s9_76"
+>) { </text>
+
+<path d="M107.8,1044.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_76" />
+<text 
+x="159" 
+y="1040" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s6_76"
+>const </text>
+
+<text 
+x="209" 
+y="1040" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>disableLogs</text>
+
+<text 
+x="300" 
+y="1040" 
+dx="0,-0.3" 
+class="s9_76"
+>: </text>
+
+<text 
+x="317" 
+y="1040" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0.1" 
+class="s13_76"
+>boolean </text>
+
+<text 
+x="383" 
+y="1040" 
+class="s9_76"
+>= </text>
+
+<text 
+x="400" 
+y="1040" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>request</text>
+
+<text 
+x="457" 
+y="1040" 
+class="s9_76"
+>.</text>
+
+<text 
+x="466" 
+y="1040" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s7_76"
+>params</text>
+
+<text 
+x="515" 
+y="1040" 
+class="s9_76"
+>.</text>
+
+<text 
+x="523" 
+y="1040" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_76"
+>disablelogs </text>
+
+<text 
+x="623" 
+y="1040" 
+dx="0,0,-0.3,0" 
+class="s9_76"
+>=== </text>
+
+<text 
+x="656" 
+y="1040" 
+dx="0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s8_76"
+>"true" </text>
+
+<text 
+x="714" 
+y="1040" 
+dx="0,-0.3" 
+class="s9_76"
+>? </text>
+
+<text 
+x="731" 
+y="1040" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_76"
+>true </text>
+
+<text 
+x="772" 
+y="1040" 
+dx="0,-0.3" 
+class="s9_76"
+>: </text>
+
+<path d="M107.8,1065.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_76" />
+<text 
+x="110" 
+y="1061" 
+dx="0,0,0,-0.3,0" 
+class="s6_76"
+>false</text>
+
+<text 
+x="151" 
+y="1061" 
+dx="0,-0.3" 
+class="s9_76"
+>; </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

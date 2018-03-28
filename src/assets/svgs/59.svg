@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 59 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_59{
+fill: #D9D9D9;
+}
+.g2_59{
+fill: #FFFFFF;
+}
+
+.s1_59{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_59{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_59{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_59{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_59{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+.s6_59{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #800000;
+}
+.s7_59{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #FF0000;
+}
+.s8_59{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s9_59{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_59"
+>59 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_59"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_59" />
+<text 
+x="110" 
+y="127" 
+class="s3_59"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_59"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_59"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.3,1.6,1.4" 
+class="s4_59"
+>BASE</text>
+
+<text 
+x="188" 
+y="127" 
+class="s3_59"
+>.</text>
+
+<text 
+x="194" 
+y="127" 
+dx="0,1.3,1.4,1.5,1.3,1.4,1.6,1.3,1.6" 
+class="s4_59"
+>COMPONENT</text>
+
+<text 
+x="287" 
+y="127" 
+class="s3_59"
+>.</text>
+
+<text 
+x="292" 
+y="127" 
+dx="0,1.6,1.3,1.5" 
+class="s4_59"
+>HTML</text>
+
+<path d="M107.8,180l719.4,0l0,-16.1l-719.4,0l0,16.1Z" class="g2_59" />
+<text 
+x="110" 
+y="176" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s5_59"
+>&lt;!--Written by Darren Yip in partial fulfilment of Master of Science in Software </text>
+
+<path d="M107.8,200.6l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_59" />
+<text 
+x="110" 
+y="197" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,-0.1,-0.3,0,-0.3" 
+class="s5_59"
+>Development at Southern Connecticut State University, New Haven--&gt; </text>
+
+<path d="M107.8,221.1l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="217" 
+dx="0,0,0,-0.3,0" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="151" 
+y="217" 
+class="s7_59"
+>id</text>
+
+<text 
+x="168" 
+y="217" 
+class="s8_59"
+>=</text>
+
+<text 
+x="176" 
+y="217" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"mainDiv" </text>
+
+<text 
+x="259" 
+y="217" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_59"
+>class</text>
+
+<text 
+x="300" 
+y="217" 
+class="s8_59"
+>=</text>
+
+<text 
+x="308" 
+y="217" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"col-xs-offset-1 col-xs-10 col-md-offset-2 col-md-8 col-lg-</text>
+
+<path d="M107.8,242l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="110" 
+y="238" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>offset-3 col-lg-6"</text>
+
+<text 
+x="259" 
+y="238" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,262.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="126" 
+y="259" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="168" 
+y="259" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="209" 
+y="259" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="259" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"row heading"</text>
+
+<text 
+x="325" 
+y="259" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,283.1l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="143" 
+y="279" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;img </text>
+
+<text 
+x="184" 
+y="279" 
+dx="0,-0.3,0" 
+class="s7_59"
+>src</text>
+
+<text 
+x="209" 
+y="279" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="279" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.4" 
+class="s9_59"
+>"assets/logoTitle6.png" </text>
+
+<text 
+x="416" 
+y="279" 
+dx="0,-0.3" 
+class="s7_59"
+>id</text>
+
+<text 
+x="433" 
+y="279" 
+class="s8_59"
+>=</text>
+
+<text 
+x="441" 
+y="279" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"masthead" </text>
+
+<text 
+x="532" 
+y="279" 
+dx="0,0,-0.3,0,-0.3" 
+class="s7_59"
+>class</text>
+
+<text 
+x="573" 
+y="279" 
+class="s8_59"
+>=</text>
+
+<text 
+x="581" 
+y="279" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"img-responsive" </text>
+
+<path d="M107.8,303.6l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="300" 
+class="s7_59"
+>alt</text>
+
+<text 
+x="134" 
+y="300" 
+class="s8_59"
+>=</text>
+
+<text 
+x="143" 
+y="300" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s9_59"
+>"masthead" </text>
+
+<text 
+x="234" 
+y="300" 
+dx="0,0,-0.3" 
+class="s6_59"
+>/&gt; </text>
+
+<path d="M107.8,324.5l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="143" 
+y="320" 
+dx="0,-0.3,0,0.1" 
+class="s6_59"
+>&lt;h4 </text>
+
+<text 
+x="176" 
+y="320" 
+dx="0,0,-0.3,0,-0.3" 
+class="s7_59"
+>class</text>
+
+<text 
+x="217" 
+y="320" 
+class="s8_59"
+>=</text>
+
+<text 
+x="226" 
+y="320" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_59"
+>"secondaryFont" </text>
+
+<text 
+x="358" 
+y="320" 
+dx="0,-0.3" 
+class="s7_59"
+>id</text>
+
+<text 
+x="375" 
+y="320" 
+class="s8_59"
+>=</text>
+
+<text 
+x="383" 
+y="320" 
+dx="0,0,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"credit"</text>
+
+<text 
+x="449" 
+y="320" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="457" 
+y="320" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s8_59"
+>created by </text>
+
+<text 
+x="548" 
+y="320" 
+dx="0,0,-0.3" 
+class="s6_59"
+>&lt;a </text>
+
+<path d="M107.8,345l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="341" 
+dx="0,0,0,-0.3" 
+class="s7_59"
+>href</text>
+
+<text 
+x="143" 
+y="341" 
+class="s8_59"
+>=</text>
+
+<text 
+x="151" 
+y="341" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.4" 
+class="s9_59"
+>"http://www.github.com/drrnyip" </text>
+
+<text 
+x="416" 
+y="341" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s7_59"
+>target</text>
+
+<text 
+x="466" 
+y="341" 
+class="s8_59"
+>=</text>
+
+<text 
+x="474" 
+y="341" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"_blank"</text>
+
+<text 
+x="540" 
+y="341" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="548" 
+y="341" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s8_59"
+>drrnyip</text>
+
+<text 
+x="606" 
+y="341" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;/a&gt;&lt;/h4&gt; </text>
+
+<path d="M107.8,365.6l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="126" 
+y="362" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;/div&gt; </text>
+
+<path d="M107.8,386.1l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="126" 
+y="382" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="168" 
+y="382" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="209" 
+y="382" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="382" 
+dx="0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"row"</text>
+
+<text 
+x="259" 
+y="382" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,407l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="143" 
+y="403" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;textarea </text>
+
+<text 
+x="226" 
+y="403" 
+dx="0,-0.3" 
+class="s7_59"
+>id</text>
+
+<text 
+x="242" 
+y="403" 
+class="s8_59"
+>=</text>
+
+<text 
+x="250" 
+y="403" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"target" </text>
+
+<text 
+x="325" 
+y="403" 
+dx="0,0,0,-0.3" 
+class="s7_59"
+>rows</text>
+
+<text 
+x="358" 
+y="403" 
+class="s8_59"
+>=</text>
+
+<text 
+x="366" 
+y="403" 
+dx="0,0,-0.3,0" 
+class="s9_59"
+>"3" </text>
+
+<text 
+x="400" 
+y="403" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="441" 
+y="403" 
+class="s8_59"
+>=</text>
+
+<text 
+x="449" 
+y="403" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.2,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"form-control secondaryFont white-font </text>
+
+<path d="M107.8,427.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="424" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_59"
+>medium-blue" </text>
+
+<text 
+x="217" 
+y="424" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_59"
+>maxlength</text>
+
+<text 
+x="292" 
+y="424" 
+class="s8_59"
+>=</text>
+
+<text 
+x="300" 
+y="424" 
+dx="0,-0.3,0,-0.3,0,0.1" 
+class="s9_59"
+>"200" </text>
+
+<text 
+x="350" 
+y="424" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_59"
+>placeholder</text>
+
+<text 
+x="441" 
+y="424" 
+class="s8_59"
+>=</text>
+
+<text 
+x="449" 
+y="424" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.4" 
+class="s9_59"
+>"Input sentence here" </text>
+
+<path d="M107.8,448.1l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="110" 
+y="444" 
+class="s8_59"
+>(</text>
+
+<text 
+x="118" 
+y="444" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_59"
+>keydown</text>
+
+<text 
+x="176" 
+y="444" 
+class="s8_59"
+>)=</text>
+
+<text 
+x="192" 
+y="444" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"enter($event)" </text>
+
+<text 
+x="325" 
+y="444" 
+class="s8_59"
+>#</text>
+
+<text 
+x="333" 
+y="444" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_59"
+>target</text>
+
+<text 
+x="383" 
+y="444" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_59"
+>&gt;&lt;/textarea&gt; </text>
+
+<path d="M107.8,468.6l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="126" 
+y="465" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;/div&gt; </text>
+
+<path d="M107.8,489.5l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="126" 
+y="485" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="168" 
+y="485" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="209" 
+y="485" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="485" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"row" </text>
+
+<text 
+x="267" 
+y="485" 
+class="s7_59"
+>id</text>
+
+<text 
+x="284" 
+y="485" 
+class="s8_59"
+>=</text>
+
+<text 
+x="292" 
+y="485" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_59"
+>"buttonsDiv"</text>
+
+<text 
+x="391" 
+y="485" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,510l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="143" 
+y="506" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;button </text>
+
+<text 
+x="209" 
+y="506" 
+dx="0,0,0,-0.3" 
+class="s7_59"
+>type</text>
+
+<text 
+x="242" 
+y="506" 
+class="s8_59"
+>=</text>
+
+<text 
+x="250" 
+y="506" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"button" </text>
+
+<text 
+x="325" 
+y="506" 
+class="s7_59"
+>id</text>
+
+<text 
+x="342" 
+y="506" 
+class="s8_59"
+>=</text>
+
+<text 
+x="350" 
+y="506" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"translateBtn" </text>
+
+<text 
+x="474" 
+y="506" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_59"
+>class</text>
+
+<text 
+x="515" 
+y="506" 
+class="s8_59"
+>=</text>
+
+<text 
+x="523" 
+y="506" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"btn col-xs-12 col-md-6 blue white-</text>
+
+<path d="M107.8,530.6l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="110" 
+y="527" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.4" 
+class="s9_59"
+>font primaryFont" </text>
+
+<text 
+x="259" 
+y="527" 
+class="s8_59"
+>(</text>
+
+<text 
+x="267" 
+y="527" 
+dx="0,0,0,-0.3,0" 
+class="s7_59"
+>click</text>
+
+<text 
+x="308" 
+y="527" 
+class="s8_59"
+>)=</text>
+
+<text 
+x="325" 
+y="527" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"clicked()" </text>
+
+<text 
+x="424" 
+y="527" 
+class="s8_59"
+>#</text>
+
+<text 
+x="433" 
+y="527" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_59"
+>translateBtn</text>
+
+<text 
+x="532" 
+y="527" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="540" 
+y="527" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s8_59"
+>Translate</text>
+
+<text 
+x="615" 
+y="527" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,-0.3" 
+class="s6_59"
+>&lt;/button&gt; </text>
+
+<path d="M107.8,551.1l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="143" 
+y="547" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;button </text>
+
+<text 
+x="209" 
+y="547" 
+dx="0,0,0,-0.3" 
+class="s7_59"
+>type</text>
+
+<text 
+x="242" 
+y="547" 
+class="s8_59"
+>=</text>
+
+<text 
+x="250" 
+y="547" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"button" </text>
+
+<text 
+x="325" 
+y="547" 
+class="s7_59"
+>id</text>
+
+<text 
+x="342" 
+y="547" 
+class="s8_59"
+>=</text>
+
+<text 
+x="350" 
+y="547" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"clearTarget" </text>
+
+<text 
+x="466" 
+y="547" 
+dx="0,0,-0.3,0,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="507" 
+y="547" 
+class="s8_59"
+>=</text>
+
+<text 
+x="515" 
+y="547" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"btn col-xs-12 col-md-6 light-orange </text>
+
+<path d="M107.8,572l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="110" 
+y="568" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>white-font primaryFont" </text>
+
+<text 
+x="308" 
+y="568" 
+class="s8_59"
+>(</text>
+
+<text 
+x="317" 
+y="568" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_59"
+>click</text>
+
+<text 
+x="358" 
+y="568" 
+dx="0,-0.3" 
+class="s8_59"
+>)=</text>
+
+<text 
+x="375" 
+y="568" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0.1" 
+class="s9_59"
+>"clearAll()" </text>
+
+<text 
+x="482" 
+y="568" 
+class="s8_59"
+>#</text>
+
+<text 
+x="490" 
+y="568" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_59"
+>clearTarget</text>
+
+<text 
+x="581" 
+y="568" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="590" 
+y="568" 
+dx="0,0,-0.3,0,-0.3" 
+class="s8_59"
+>Clear</text>
+
+<text 
+x="631" 
+y="568" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,-0.3" 
+class="s6_59"
+>&lt;/button&gt; </text>
+
+<path d="M107.8,592.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="126" 
+y="589" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;/div&gt; </text>
+
+<path d="M107.8,613.1l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="126" 
+y="609" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="168" 
+y="609" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="209" 
+y="609" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="609" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"row" </text>
+
+<text 
+x="267" 
+y="609" 
+class="s7_59"
+>id</text>
+
+<text 
+x="284" 
+y="609" 
+class="s8_59"
+>=</text>
+
+<text 
+x="292" 
+y="609" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"destinationDiv"</text>
+
+<text 
+x="424" 
+y="609" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,633.6l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="143" 
+y="630" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;textarea </text>
+
+<text 
+x="226" 
+y="630" 
+dx="0,-0.3,0,-0.3" 
+class="s7_59"
+>type</text>
+
+<text 
+x="259" 
+y="630" 
+class="s8_59"
+>=</text>
+
+<text 
+x="267" 
+y="630" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"text" </text>
+
+<text 
+x="325" 
+y="630" 
+class="s7_59"
+>id</text>
+
+<text 
+x="342" 
+y="630" 
+class="s8_59"
+>=</text>
+
+<text 
+x="350" 
+y="630" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.4" 
+class="s9_59"
+>"destinationTranslation" </text>
+
+<text 
+x="557" 
+y="630" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="598" 
+y="630" 
+class="s8_59"
+>=</text>
+
+<text 
+x="606" 
+y="630" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"form-control </text>
+
+<path d="M107.8,654.5l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="110" 
+y="650" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.4,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_59"
+>secondaryFont light-blue white-font" </text>
+
+<text 
+x="416" 
+y="650" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_59"
+>placeholder</text>
+
+<text 
+x="507" 
+y="650" 
+class="s8_59"
+>=</text>
+
+<text 
+x="515" 
+y="650" 
+dx="0,-0.3,0" 
+class="s9_59"
+>"" </text>
+
+<text 
+x="540" 
+y="650" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_59"
+>disabled </text>
+
+<path d="M107.8,675l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="671" 
+class="s8_59"
+>#</text>
+
+<text 
+x="118" 
+y="671" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_59"
+>destinationTranslation</text>
+
+<text 
+x="300" 
+y="671" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_59"
+>&gt;&lt;/textarea&gt; </text>
+
+<path d="M107.8,695.6l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="143" 
+y="692" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="184" 
+y="692" 
+dx="0,-0.3" 
+class="s7_59"
+>id</text>
+
+<text 
+x="201" 
+y="692" 
+class="s8_59"
+>=</text>
+
+<text 
+x="209" 
+y="692" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"belowDestinationDiv"</text>
+
+<text 
+x="383" 
+y="692" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,716.1l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="159" 
+y="712" 
+dx="0,0,-0.3,0" 
+class="s6_59"
+>&lt;h6 </text>
+
+<text 
+x="192" 
+y="712" 
+class="s7_59"
+>id</text>
+
+<text 
+x="209" 
+y="712" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="712" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"detectedLanguages" </text>
+
+<text 
+x="383" 
+y="712" 
+dx="0,0,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="424" 
+y="712" 
+class="s8_59"
+>=</text>
+
+<text 
+x="433" 
+y="712" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.4,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"secondaryFont col-xs-12 col-md-8" </text>
+
+<path d="M107.8,737l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="110" 
+y="733" 
+class="s8_59"
+>[</text>
+
+<text 
+x="118" 
+y="733" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_59"
+>ngClass</text>
+
+<text 
+x="176" 
+y="733" 
+class="s8_59"
+>]=</text>
+
+<text 
+x="192" 
+y="733" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"{'notVisible': !checkDetected()}"</text>
+
+<text 
+x="474" 
+y="733" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="482" 
+y="733" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_59"
+>Detected Languages: </text>
+
+<path d="M107.8,757.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="110" 
+y="754" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s8_59"
+>{{getLanguages()}}</text>
+
+<text 
+x="259" 
+y="754" 
+dx="0,-0.3,0,0,-0.3,-0.3" 
+class="s6_59"
+>&lt;/h6&gt; </text>
+
+<path d="M107.8,778.1l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="159" 
+y="774" 
+dx="0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;label </text>
+
+<text 
+x="217" 
+y="774" 
+class="s7_59"
+>id</text>
+
+<text 
+x="234" 
+y="774" 
+class="s8_59"
+>=</text>
+
+<text 
+x="242" 
+y="774" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"targetLanguageLabel" </text>
+
+<text 
+x="424" 
+y="774" 
+class="s7_59"
+>for</text>
+
+<text 
+x="449" 
+y="774" 
+class="s8_59"
+>=</text>
+
+<text 
+x="457" 
+y="774" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_59"
+>"targetLanguage"</text>
+
+<text 
+x="590" 
+y="774" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="598" 
+y="774" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_59"
+>Translate to: </text>
+
+<text 
+x="714" 
+y="774" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;/label&gt; </text>
+
+<path d="M107.8,798.6l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="159" 
+y="795" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s6_59"
+>&lt;select </text>
+
+<text 
+x="226" 
+y="795" 
+dx="0,-0.3,0,-0.3" 
+class="s7_59"
+>name</text>
+
+<text 
+x="259" 
+y="795" 
+class="s8_59"
+>=</text>
+
+<text 
+x="267" 
+y="795" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"targetLanguage" </text>
+
+<text 
+x="408" 
+y="795" 
+dx="0,0,-0.3,0,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="449" 
+y="795" 
+class="s8_59"
+>=</text>
+
+<text 
+x="457" 
+y="795" 
+dx="0,-0.3,0,-0.3,0.1,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"col-xs-12 col-md-4" </text>
+
+<path d="M107.8,819.5l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="110" 
+y="815" 
+class="s8_59"
+>(</text>
+
+<text 
+x="118" 
+y="815" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s7_59"
+>change</text>
+
+<text 
+x="168" 
+y="815" 
+dx="0,-0.3" 
+class="s8_59"
+>)=</text>
+
+<text 
+x="184" 
+y="815" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"selectTargetLanguage($event.target.value)"</text>
+
+<text 
+x="540" 
+y="815" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,840l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="176" 
+y="836" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;option </text>
+
+<text 
+x="242" 
+y="836" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>value</text>
+
+<text 
+x="284" 
+y="836" 
+class="s8_59"
+>=</text>
+
+<text 
+x="292" 
+y="836" 
+dx="0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"en" </text>
+
+<text 
+x="333" 
+y="836" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_59"
+>selected</text>
+
+<text 
+x="400" 
+y="836" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="408" 
+y="836" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s8_59"
+>English</text>
+
+<text 
+x="466" 
+y="836" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;/option&gt; </text>
+
+<path d="M107.8,860.6l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="192" 
+y="857" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s6_59"
+>&lt;ng-container </text>
+
+<text 
+x="308" 
+y="857" 
+class="s8_59"
+>*</text>
+
+<text 
+x="317" 
+y="857" 
+dx="0,-0.3,0,0.1,-0.3" 
+class="s7_59"
+>ngFor</text>
+
+<text 
+x="358" 
+y="857" 
+class="s8_59"
+>=</text>
+
+<text 
+x="366" 
+y="857" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_59"
+>"let language of targetLanguages"</text>
+
+<text 
+x="639" 
+y="857" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,881.1l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="209" 
+y="877" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;option </text>
+
+<text 
+x="275" 
+y="877" 
+dx="0,0,-0.3,0,-0.3" 
+class="s7_59"
+>value</text>
+
+<text 
+x="317" 
+y="877" 
+class="s8_59"
+>=</text>
+
+<text 
+x="325" 
+y="877" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>{{language.languageCode}}</text>
+
+<text 
+x="532" 
+y="877" 
+class="s6_59"
+>&gt;</text>
+
+<text 
+x="540" 
+y="877" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s8_59"
+>{{language.language}}</text>
+
+<text 
+x="714" 
+y="877" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,-0.3" 
+class="s6_59"
+>&lt;/option&gt; </text>
+
+<path d="M107.8,902l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="192" 
+y="898" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,-0.3" 
+class="s6_59"
+>&lt;/ng-container&gt; </text>
+
+<path d="M107.8,922.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="176" 
+y="919" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;/select&gt; </text>
+
+<path d="M107.8,943.1l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="143" 
+y="939" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;/div&gt; </text>
+
+<path d="M107.8,963.6l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="126" 
+y="960" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;/div&gt; </text>
+
+<path d="M107.8,984.5l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_59" />
+<text 
+x="126" 
+y="980" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s6_59"
+>&lt;div </text>
+
+<text 
+x="168" 
+y="980" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_59"
+>class</text>
+
+<text 
+x="209" 
+y="980" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="980" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_59"
+>"row heading" </text>
+
+<text 
+x="333" 
+y="980" 
+class="s7_59"
+>id</text>
+
+<text 
+x="350" 
+y="980" 
+class="s8_59"
+>=</text>
+
+<text 
+x="358" 
+y="980" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s9_59"
+>"bottomDiv"</text>
+
+<text 
+x="449" 
+y="980" 
+dx="0,-0.3" 
+class="s6_59"
+>&gt; </text>
+
+<path d="M107.8,1005l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_59" />
+<text 
+x="143" 
+y="1001" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_59"
+>&lt;img </text>
+
+<text 
+x="184" 
+y="1001" 
+dx="0,-0.3,0" 
+class="s7_59"
+>src</text>
+
+<text 
+x="209" 
+y="1001" 
+class="s8_59"
+>=</text>
+
+<text 
+x="217" 
+y="1001" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_59"
+>"assets/info4.png" </text>
+
+<text 
+x="375" 
+y="1001" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_59"
+>class</text>
+
+<text 
+x="416" 
+y="1001" 
+class="s8_59"
+>=</text>
+
+<text 
+x="424" 
+y="1001" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_59"
+>"img-responsive" </text>
+
+<text 
+x="565" 
+y="1001" 
+dx="0,0,-0.3" 
+class="s7_59"
+>alt</text>
+
+<text 
+x="590" 
+y="1001" 
+class="s8_59"
+>=</text>
+
+<text 
+x="598" 
+y="1001" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s9_59"
+>"Instructions" </text>
+
+<text 
+x="722" 
+y="1001" 
+dx="0,0,-0.3" 
+class="s6_59"
+>/&gt; </text>
+
+<path d="M107.8,1025.6l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_59" />
+<text 
+x="143" 
+y="1022" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_59"
+>&lt;br /&gt; </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

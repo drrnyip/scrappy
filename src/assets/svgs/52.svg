@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 52 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_52{
+fill: #D9D9D9;
+}
+.g2_52{
+fill: #FFFFFF;
+}
+
+.s1_52{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_52{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_52{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_52{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_52{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s6_52{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s7_52{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s8_52{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s9_52{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_52"
+>52 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_52"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_52" />
+<text 
+x="110" 
+y="127" 
+class="s3_52"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_52"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_52"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.6,1.3,1.6,1.4,1.3,1.6,1.4" 
+class="s4_52"
+>LANGUAGE</text>
+
+<text 
+x="231" 
+y="127" 
+class="s3_52"
+>_</text>
+
+<text 
+x="242" 
+y="127" 
+dx="0,1.3,1.4,1.4,1.6" 
+class="s4_52"
+>CODES</text>
+
+<text 
+x="289" 
+y="127" 
+class="s3_52"
+>.</text>
+
+<text 
+x="295" 
+y="127" 
+dx="0,1.3" 
+class="s4_52"
+>TS</text>
+
+<path d="M107.8,157.7l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_52" />
+<text 
+x="110" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_52"
+>export </text>
+
+<text 
+x="168" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s6_52"
+>const </text>
+
+<text 
+x="217" 
+y="154" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_52"
+>languageCodes </text>
+
+<text 
+x="333" 
+y="154" 
+dx="0,0,-0.3,-0.3" 
+class="s8_52"
+>= { </text>
+
+<path d="M107.8,178.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="174" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'af'</text>
+
+<text 
+x="176" 
+y="174" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="174" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Afrikaans'</text>
+
+<text 
+x="284" 
+y="174" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,198.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="195" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'eu'</text>
+
+<text 
+x="176" 
+y="195" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="195" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Basque (Basque)'</text>
+
+<text 
+x="333" 
+y="195" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,219.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="215" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'be'</text>
+
+<text 
+x="176" 
+y="215" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="215" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'Belarusian'</text>
+
+<text 
+x="292" 
+y="215" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,240.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="236" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'bn'</text>
+
+<text 
+x="176" 
+y="236" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="236" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Bengali'</text>
+
+<text 
+x="267" 
+y="236" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,260.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="257" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'cy'</text>
+
+<text 
+x="176" 
+y="257" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="257" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Welsh'</text>
+
+<text 
+x="250" 
+y="257" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,281.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="277" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'hr'</text>
+
+<text 
+x="176" 
+y="277" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="277" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Croatian'</text>
+
+<text 
+x="275" 
+y="277" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,302.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="298" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'da'</text>
+
+<text 
+x="176" 
+y="298" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="298" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Danish'</text>
+
+<text 
+x="259" 
+y="298" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,322.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="319" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'fo'</text>
+
+<text 
+x="176" 
+y="319" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="319" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Faeroese'</text>
+
+<text 
+x="275" 
+y="319" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,343.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="339" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'fi'</text>
+
+<text 
+x="176" 
+y="339" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="339" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Finnish'</text>
+
+<text 
+x="267" 
+y="339" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,363.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="360" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'gd'</text>
+
+<text 
+x="176" 
+y="360" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="360" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'Gaelic (Scotland)'</text>
+
+<text 
+x="350" 
+y="360" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,384.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="380" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'de'</text>
+
+<text 
+x="176" 
+y="380" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="380" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'German (Standard)'</text>
+
+<text 
+x="350" 
+y="380" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,405.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="401" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'he'</text>
+
+<text 
+x="176" 
+y="401" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="401" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Hebrew'</text>
+
+<text 
+x="259" 
+y="401" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,425.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="422" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'hu'</text>
+
+<text 
+x="176" 
+y="422" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="422" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Hungarian'</text>
+
+<text 
+x="284" 
+y="422" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,446.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="442" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'id'</text>
+
+<text 
+x="176" 
+y="442" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="442" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'Indonesian'</text>
+
+<text 
+x="292" 
+y="442" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,467.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="463" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ko'</text>
+
+<text 
+x="176" 
+y="463" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="463" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Korean'</text>
+
+<text 
+x="259" 
+y="463" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,487.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="484" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'lv'</text>
+
+<text 
+x="176" 
+y="484" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="484" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Latvian'</text>
+
+<text 
+x="267" 
+y="484" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,508.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="504" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'mk'</text>
+
+<text 
+x="176" 
+y="504" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="504" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_52"
+>'Macedonian (FYROM)'</text>
+
+<text 
+x="358" 
+y="504" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,528.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="525" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'mt'</text>
+
+<text 
+x="176" 
+y="525" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="525" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Maltese'</text>
+
+<text 
+x="267" 
+y="525" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,549.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="545" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ne'</text>
+
+<text 
+x="176" 
+y="545" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="545" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Nepali'</text>
+
+<text 
+x="259" 
+y="545" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,570.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="566" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'no'</text>
+
+<text 
+x="176" 
+y="566" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="566" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Norwegian (Nynorsk)'</text>
+
+<text 
+x="366" 
+y="566" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,590.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="587" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'rm'</text>
+
+<text 
+x="176" 
+y="587" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="587" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Rhaeto-Romanic'</text>
+
+<text 
+x="325" 
+y="587" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,611.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="607" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'sr'</text>
+
+<text 
+x="176" 
+y="607" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="607" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_52"
+>'Serbian (Cyrillic)'</text>
+
+<text 
+x="358" 
+y="607" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,632.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="628" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'sk'</text>
+
+<text 
+x="176" 
+y="628" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="628" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Slovak'</text>
+
+<text 
+x="259" 
+y="628" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,652.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="649" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'sb'</text>
+
+<text 
+x="176" 
+y="649" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="649" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Sorbian'</text>
+
+<text 
+x="267" 
+y="649" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,673.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="669" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'sx'</text>
+
+<text 
+x="176" 
+y="669" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="669" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s9_52"
+>'Sutu'</text>
+
+<text 
+x="242" 
+y="669" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,693.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="690" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ts'</text>
+
+<text 
+x="176" 
+y="690" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="690" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Tsonga'</text>
+
+<text 
+x="259" 
+y="690" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,714.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="710" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'tr'</text>
+
+<text 
+x="176" 
+y="710" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="710" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Turkish'</text>
+
+<text 
+x="267" 
+y="710" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,735.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="731" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ur'</text>
+
+<text 
+x="176" 
+y="731" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="731" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s9_52"
+>'Urdu'</text>
+
+<text 
+x="242" 
+y="731" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,755.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="752" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'vi'</text>
+
+<text 
+x="176" 
+y="752" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="752" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'Vietnamese'</text>
+
+<text 
+x="292" 
+y="752" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,776.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="772" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ji'</text>
+
+<text 
+x="176" 
+y="772" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="772" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Yiddish'</text>
+
+<text 
+x="267" 
+y="772" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,797.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="793" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'sq'</text>
+
+<text 
+x="176" 
+y="793" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="793" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Albanian'</text>
+
+<text 
+x="275" 
+y="793" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,817.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="814" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'bg'</text>
+
+<text 
+x="176" 
+y="814" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="814" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Bulgarian'</text>
+
+<text 
+x="284" 
+y="814" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,838.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="834" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ca'</text>
+
+<text 
+x="176" 
+y="834" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="834" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Catalan'</text>
+
+<text 
+x="267" 
+y="834" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,858.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="855" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'cs'</text>
+
+<text 
+x="176" 
+y="855" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="855" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Czech'</text>
+
+<text 
+x="250" 
+y="855" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,879.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="875" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'nl'</text>
+
+<text 
+x="176" 
+y="875" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="875" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Dutch (Standard)'</text>
+
+<text 
+x="342" 
+y="875" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,900.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="896" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'en'</text>
+
+<text 
+x="176" 
+y="896" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="896" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'English'</text>
+
+<text 
+x="267" 
+y="896" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,920.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="917" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'et'</text>
+
+<text 
+x="176" 
+y="917" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="917" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s9_52"
+>'Estonian'</text>
+
+<text 
+x="275" 
+y="917" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,941.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="937" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'fa'</text>
+
+<text 
+x="176" 
+y="937" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="937" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Farsi'</text>
+
+<text 
+x="250" 
+y="937" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,962.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="958" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'fr'</text>
+
+<text 
+x="176" 
+y="958" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="958" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_52"
+>'French (Standard)'</text>
+
+<text 
+x="350" 
+y="958" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,982.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="979" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'ga'</text>
+
+<text 
+x="176" 
+y="979" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="979" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Irish'</text>
+
+<text 
+x="250" 
+y="979" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,1003.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="999" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'el'</text>
+
+<text 
+x="176" 
+y="999" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="999" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Greek'</text>
+
+<text 
+x="250" 
+y="999" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,1023.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_52" />
+<text 
+x="143" 
+y="1020" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'hi'</text>
+
+<text 
+x="176" 
+y="1020" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="1020" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s9_52"
+>'Hindi'</text>
+
+<text 
+x="250" 
+y="1020" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,1044.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_52" />
+<text 
+x="143" 
+y="1040" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'is'</text>
+
+<text 
+x="176" 
+y="1040" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="1040" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_52"
+>'Icelandic'</text>
+
+<text 
+x="284" 
+y="1040" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+<path d="M107.8,1065.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_52" />
+<text 
+x="143" 
+y="1061" 
+dx="0,-0.3,0,0" 
+class="s9_52"
+>'it'</text>
+
+<text 
+x="176" 
+y="1061" 
+class="s7_52"
+>: </text>
+
+<text 
+x="192" 
+y="1061" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_52"
+>'Italian (Standard)'</text>
+
+<text 
+x="358" 
+y="1061" 
+dx="0,-0.3" 
+class="s8_52"
+>, </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

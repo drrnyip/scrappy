@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 1 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_1{
+}
+
+.s1_1{
+font-size: 45.83px;
+font-family: ArialNovaCond_b;
+fill: #323E4F;
+}
+.s2_1{
+font-size: 36.67px;
+font-family: ArialNovaCond_b;
+fill: #323E4F;
+}
+.s3_1{
+font-size: 28.97px;
+font-family: ArialNovaCond_b;
+fill: #5A5A5A;
+}
+.s4_1{
+font-size: 30.43px;
+font-family: ArialNovaCond_b;
+fill: #5A5A5A;
+}
+.s5_1{
+font-size: 19.80px;
+font-family: ArialNovaCond-Light_9;
+fill: #5A5A5A;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path d="M103,108.5l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M103,108.5l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M103.8,108.5l727.4,0l0,-0.7l-727.4,0l0,0.7Z" class="g1_1" />
+<path d="M831.2,108.5l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M831.2,108.5l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M103,1101.5l0.8,0l0,-993l-0.8,0l0,993Z" class="g1_1" />
+<path d="M831.2,1101.5l0.8,0l0,-993l-0.8,0l0,993Z" class="g1_1" />
+<path d="M103,1102.2l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M103,1102.2l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M103.8,1102.2l727.4,0l0,-0.7l-727.4,0l0,0.7Z" class="g1_1" />
+<path d="M831.2,1102.2l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<path d="M831.2,1102.2l0.8,0l0,-0.7l-0.8,0l0,0.7Z" class="g1_1" />
+<text 
+x="160" 
+y="284" 
+class="s1_1"
+>A</text>
+
+<text 
+x="196" 
+y="284" 
+class="s1_1"
+>W</text>
+
+<text 
+x="233" 
+y="284" 
+dx="0,0.3" 
+class="s2_1"
+>EB</text>
+
+<text 
+x="273" 
+y="284" 
+dx="0,0.5" 
+class="s1_1"
+>-B</text>
+
+<text 
+x="314" 
+y="284" 
+dx="0,0.3,0.3,0.3,0.5" 
+class="s2_1"
+>ASED </text>
+
+<text 
+x="408" 
+y="284" 
+class="s1_1"
+>T</text>
+
+<text 
+x="431" 
+y="284" 
+dx="0,0.2,0.3,0.5,-0.1,0.3,0.3,0.4,0.5,0.5,0.5" 
+class="s2_1"
+>RANSLATION </text>
+
+<text 
+x="641" 
+y="284" 
+class="s1_1"
+>S</text>
+
+<text 
+x="666" 
+y="284" 
+dx="0,0.2,0.3,0.4,0.3" 
+class="s2_1"
+>YSTEM</text>
+
+<text 
+x="166" 
+y="340" 
+dx="0,0.4,0.5,0.2" 
+class="s2_1"
+>FOR </text>
+
+<text 
+x="238" 
+y="340" 
+class="s1_1"
+>M</text>
+
+<text 
+x="274" 
+y="340" 
+dx="0,0.5,0.3,0.4,0.5,0.3,0.5,0.1,0.5,0.5,0.3,0.3" 
+class="s2_1"
+>ULTILINGUAL </text>
+
+<text 
+x="490" 
+y="340" 
+class="s1_1"
+>C</text>
+
+<text 
+x="516" 
+y="340" 
+dx="0,0.5,0.5" 
+class="s2_1"
+>ODE</text>
+
+<text 
+x="581" 
+y="340" 
+dx="0,0.5" 
+class="s1_1"
+>-S</text>
+
+<text 
+x="622" 
+y="340" 
+dx="0,0.2,0.5,0.4,0.5,0.2,0.5,0.5" 
+class="s2_1"
+>WITCHING</text>
+
+<text 
+x="453" 
+y="390" 
+dx="0,0.2,-0.1" 
+class="s3_1"
+>by </text>
+
+<text 
+x="405" 
+y="445" 
+dx="0,0.1,-0.1,-0.1,-0.1,-0.1,0.2,0.1,0.1,-0.2,0.5" 
+class="s3_1"
+>Darren Yip </text>
+
+<text 
+x="299" 
+y="596" 
+dx="0,0.1,0,0.1,0.2,0,-0.1,-0.1,-0.1,-0.1,0.4,-0.1,0.1,0.2,0.1,0,-0.1,0.1,-0.1,-0.1,0.5,-0.2,0.2,-0.1,0.1,0.1,0,0.2" 
+class="s4_1"
+>A Special Project submitted </text>
+
+<text 
+x="260" 
+y="640" 
+dx="0,0.1" 
+class="s4_1"
+>to</text>
+
+<text 
+x="295" 
+y="640" 
+dx="0,0.1,0.2,0,0,0.1,-0.1,0.2,0.2,0.2,-0.1,0,0.2,-0.1,0,-0.1,0.1,-0.1,0.2,0.2,-0.1,0.1,0,0,0.1,0.1,0.2,0.2,-0.1,0,0.2" 
+class="s4_1"
+>the School of Graduate Studies </text>
+
+<text 
+x="335" 
+y="685" 
+dx="0,-0.1,0.1,0,0.2,-0.1,0.1,0.1,-0.1,-0.1,-0.1,0,-0.1,0.1,0.3,-0.1,-0.1,-0.1,0.3,-0.1,0,0.1,0.1,0,0.2" 
+class="s4_1"
+>in partial fulfillment of</text>
+
+<text 
+x="200" 
+y="729" 
+dx="0,0.1,-0.1,-0.1,0.1,0,0.1,0,0.2,-0.1,0,0.1,0.2,-0.1,0,0.2,0.2,0,0,-0.1,0.2,0,0.1,0.2,-0.1,0.1,0.2,-0.1,0.1,0,0.4,-0.1,0,0.1,0,-0.1,0.2,0.2,-0.1,0,0.2,0.3" 
+class="s4_1"
+>Master of Science in Software Development </text>
+
+<text 
+x="335" 
+y="940" 
+dx="0,0,-0.1,-0.1,0.1,-0.1,-0.1,0.2,-0.1,0.2,0.1,-0.1,-0.1,-0.1,-0.1,0,0.1,0.1,0,-0.1,0.1,0.2,0,0.1,0.1,0.1,-0.1,0.2,0.1,-0.1,0.1,0.1,-0.1,-0.1,0.1,0.1,0.1,0" 
+class="s5_1"
+>Southern Connecticut State University </text>
+
+<text 
+x="382" 
+y="981" 
+dx="0,0.1,0,-0.1,0.2,0.1,0.1,0.1,0,-0.1,0.1,0.2,0.1,-0.1,-0.1,-0.1,0,0,0.1,0.1,0,-0.1,0.4" 
+class="s5_1"
+>New Haven, Connecticut </text>
+
+<text 
+x="411" 
+y="1022" 
+dx="0,0.1,0,0,0,-0.1,-0.1,0,-0.1,0.2,0.3,-0.1,-0.1,0.3" 
+class="s5_1"
+>December 2017 </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Light_9;
+	src: url("fonts/ArialNovaCond-Light_9.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNovaCond_b;
+	src: url("fonts/ArialNovaCond_b.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

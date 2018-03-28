@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 65 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_65{
+fill: #D9D9D9;
+}
+.g2_65{
+fill: #FFFFFF;
+}
+
+.s1_65{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_65{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_65{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_65{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s6_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s7_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s8_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+.s9_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #795E26;
+}
+.s10_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s11_65{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #267F99;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_65"
+>65 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_65"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_65" />
+<text 
+x="110" 
+y="127" 
+class="s3_65"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_65"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_65"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.3,1.6,1.4" 
+class="s4_65"
+>BASE</text>
+
+<text 
+x="188" 
+y="127" 
+class="s3_65"
+>.</text>
+
+<text 
+x="194" 
+y="127" 
+dx="0,1.3,1.4,1.5,1.3,1.4,1.6,1.3,1.6" 
+class="s4_65"
+>COMPONENT</text>
+
+<text 
+x="287" 
+y="127" 
+class="s3_65"
+>.</text>
+
+<text 
+x="292" 
+y="127" 
+dx="0,1.4,1.3,1.6" 
+class="s4_65"
+>SPEC</text>
+
+<text 
+x="327" 
+y="127" 
+class="s3_65"
+>.</text>
+
+<text 
+x="333" 
+y="127" 
+dx="0,1.3" 
+class="s4_65"
+>TS</text>
+
+<path d="M107.8,157.7l719.4,0l0,-16.2l-719.4,0l0,16.2Z" class="g2_65" />
+<text 
+x="110" 
+y="154" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_65"
+>import </text>
+
+<text 
+x="168" 
+y="154" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<text 
+x="184" 
+y="154" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_65"
+>async</text>
+
+<text 
+x="226" 
+y="154" 
+dx="0,-0.3" 
+class="s6_65"
+>, </text>
+
+<text 
+x="242" 
+y="154" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_65"
+>ComponentFixture</text>
+
+<text 
+x="375" 
+y="154" 
+dx="0,-0.3" 
+class="s6_65"
+>, </text>
+
+<text 
+x="391" 
+y="154" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_65"
+>TestBed </text>
+
+<text 
+x="457" 
+y="154" 
+dx="0,-0.3" 
+class="s6_65"
+>} </text>
+
+<text 
+x="474" 
+y="154" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_65"
+>from </text>
+
+<text 
+x="515" 
+y="154" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_65"
+>'@angular/core/testing'</text>
+
+<text 
+x="706" 
+y="154" 
+dx="0,-0.3" 
+class="s6_65"
+>; </text>
+
+<path d="M107.8,178.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<path d="M107.8,198.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="110" 
+y="195" 
+dx="0,0,0,-0.3,0,-0.3,0" 
+class="s5_65"
+>import </text>
+
+<text 
+x="168" 
+y="195" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<text 
+x="184" 
+y="195" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_65"
+>BaseComponent </text>
+
+<text 
+x="300" 
+y="195" 
+dx="0,-0.3" 
+class="s6_65"
+>} </text>
+
+<text 
+x="317" 
+y="195" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_65"
+>from </text>
+
+<text 
+x="358" 
+y="195" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s8_65"
+>'./base.component'</text>
+
+<text 
+x="507" 
+y="195" 
+dx="0,-0.3" 
+class="s6_65"
+>; </text>
+
+<path d="M107.8,219.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<path d="M107.8,240.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<text 
+x="110" 
+y="236" 
+dx="0,0,0,-0.3,0,-0.3,0,0" 
+class="s9_65"
+>describe</text>
+
+<text 
+x="176" 
+y="236" 
+class="s6_65"
+>(</text>
+
+<text 
+x="184" 
+y="236" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s8_65"
+>'BaseComponent'</text>
+
+<text 
+x="308" 
+y="236" 
+dx="0,0,-0.3,0,0" 
+class="s6_65"
+>, () </text>
+
+<text 
+x="350" 
+y="236" 
+dx="0,0,-0.3" 
+class="s10_65"
+>=&gt; </text>
+
+<text 
+x="375" 
+y="236" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<path d="M107.8,260.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="143" 
+y="257" 
+dx="0,-0.3,0,0.1" 
+class="s10_65"
+>let </text>
+
+<text 
+x="176" 
+y="257" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_65"
+>component</text>
+
+<text 
+x="250" 
+y="257" 
+class="s6_65"
+>: </text>
+
+<text 
+x="267" 
+y="257" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s11_65"
+>BaseComponent</text>
+
+<text 
+x="375" 
+y="257" 
+dx="0,-0.3" 
+class="s6_65"
+>; </text>
+
+<path d="M107.8,281.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="143" 
+y="277" 
+dx="0,-0.3,0,0.1" 
+class="s10_65"
+>let </text>
+
+<text 
+x="176" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_65"
+>fixture</text>
+
+<text 
+x="234" 
+y="277" 
+class="s6_65"
+>: </text>
+
+<text 
+x="250" 
+y="277" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s11_65"
+>ComponentFixture</text>
+
+<text 
+x="383" 
+y="277" 
+class="s6_65"
+>&lt;</text>
+
+<text 
+x="391" 
+y="277" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s11_65"
+>BaseComponent</text>
+
+<text 
+x="499" 
+y="277" 
+dx="0,-0.3,-0.3" 
+class="s6_65"
+>&gt;; </text>
+
+<path d="M107.8,302.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<path d="M107.8,322.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<text 
+x="143" 
+y="319" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_65"
+>beforeEach</text>
+
+<text 
+x="226" 
+y="319" 
+class="s6_65"
+>(</text>
+
+<text 
+x="234" 
+y="319" 
+dx="0,0,-0.3,0,-0.3" 
+class="s9_65"
+>async</text>
+
+<text 
+x="275" 
+y="319" 
+dx="0,0,-0.3,0" 
+class="s6_65"
+>(() </text>
+
+<text 
+x="308" 
+y="319" 
+dx="0,0,-0.3" 
+class="s10_65"
+>=&gt; </text>
+
+<text 
+x="333" 
+y="319" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<path d="M107.8,343.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="176" 
+y="339" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_65"
+>TestBed</text>
+
+<text 
+x="234" 
+y="339" 
+class="s6_65"
+>.</text>
+
+<text 
+x="242" 
+y="339" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0.1,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_65"
+>configureTestingModule</text>
+
+<text 
+x="424" 
+y="339" 
+dx="0,0,-0.3" 
+class="s6_65"
+>({ </text>
+
+<path d="M107.8,363.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="209" 
+y="360" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_65"
+>declarations: </text>
+
+<text 
+x="325" 
+y="360" 
+class="s6_65"
+>[ </text>
+
+<text 
+x="342" 
+y="360" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_65"
+>BaseComponent </text>
+
+<text 
+x="457" 
+y="360" 
+dx="0,-0.3" 
+class="s6_65"
+>] </text>
+
+<path d="M107.8,384.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<text 
+x="176" 
+y="380" 
+dx="0,0,-0.3" 
+class="s6_65"
+>}) </text>
+
+<path d="M107.8,405.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<text 
+x="176" 
+y="401" 
+class="s6_65"
+>.</text>
+
+<text 
+x="184" 
+y="401" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_65"
+>compileComponents</text>
+
+<text 
+x="325" 
+y="401" 
+dx="0,0,0,-0.3" 
+class="s6_65"
+>(); </text>
+
+<path d="M107.8,425.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="143" 
+y="422" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_65"
+>})); </text>
+
+<path d="M107.8,446.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<path d="M107.8,467.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<text 
+x="143" 
+y="463" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s9_65"
+>beforeEach</text>
+
+<text 
+x="226" 
+y="463" 
+dx="0,-0.3,0,-0.3" 
+class="s6_65"
+>(() </text>
+
+<text 
+x="259" 
+y="463" 
+dx="0,-0.3,0" 
+class="s10_65"
+>=&gt; </text>
+
+<text 
+x="284" 
+y="463" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<path d="M107.8,487.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<text 
+x="176" 
+y="484" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s7_65"
+>fixture </text>
+
+<text 
+x="242" 
+y="484" 
+dx="0,-0.3" 
+class="s6_65"
+>= </text>
+
+<text 
+x="259" 
+y="484" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_65"
+>TestBed</text>
+
+<text 
+x="317" 
+y="484" 
+class="s6_65"
+>.</text>
+
+<text 
+x="325" 
+y="484" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s9_65"
+>createComponent</text>
+
+<text 
+x="449" 
+y="484" 
+class="s6_65"
+>(</text>
+
+<text 
+x="457" 
+y="484" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_65"
+>BaseComponent</text>
+
+<text 
+x="565" 
+y="484" 
+dx="0,0,-0.3" 
+class="s6_65"
+>); </text>
+
+<path d="M107.8,508.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="176" 
+y="504" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_65"
+>component </text>
+
+<text 
+x="259" 
+y="504" 
+dx="0,-0.3" 
+class="s6_65"
+>= </text>
+
+<text 
+x="275" 
+y="504" 
+dx="0,0,-0.3,0,-0.3,0,-0.3" 
+class="s7_65"
+>fixture</text>
+
+<text 
+x="333" 
+y="504" 
+class="s6_65"
+>.</text>
+
+<text 
+x="342" 
+y="504" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_65"
+>componentInstance</text>
+
+<text 
+x="482" 
+y="504" 
+class="s6_65"
+>; </text>
+
+<path d="M107.8,528.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="176" 
+y="525" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_65"
+>fixture</text>
+
+<text 
+x="234" 
+y="525" 
+class="s6_65"
+>.</text>
+
+<text 
+x="242" 
+y="525" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_65"
+>detectChanges</text>
+
+<text 
+x="350" 
+y="525" 
+dx="0,0,-0.3,-0.3" 
+class="s6_65"
+>(); </text>
+
+<path d="M107.8,549.6l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<text 
+x="143" 
+y="545" 
+dx="0,-0.3,0,-0.3" 
+class="s6_65"
+>}); </text>
+
+<path d="M107.8,570.2l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<path d="M107.8,590.7l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="143" 
+y="587" 
+dx="0,-0.3" 
+class="s9_65"
+>it</text>
+
+<text 
+x="159" 
+y="587" 
+class="s6_65"
+>(</text>
+
+<text 
+x="168" 
+y="587" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s8_65"
+>'should create'</text>
+
+<text 
+x="292" 
+y="587" 
+dx="0,0,-0.3,0,-0.3" 
+class="s6_65"
+>, () </text>
+
+<text 
+x="333" 
+y="587" 
+dx="0,0,-0.3" 
+class="s10_65"
+>=&gt; </text>
+
+<text 
+x="358" 
+y="587" 
+dx="0,-0.3" 
+class="s6_65"
+>{ </text>
+
+<path d="M107.8,611.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<text 
+x="176" 
+y="607" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s9_65"
+>expect</text>
+
+<text 
+x="226" 
+y="607" 
+class="s6_65"
+>(</text>
+
+<text 
+x="234" 
+y="607" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s7_65"
+>component</text>
+
+<text 
+x="308" 
+y="607" 
+class="s6_65"
+>).</text>
+
+<text 
+x="325" 
+y="607" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s9_65"
+>toBeTruthy</text>
+
+<text 
+x="408" 
+y="607" 
+dx="0,0,-0.3,-0.3" 
+class="s6_65"
+>(); </text>
+
+<path d="M107.8,632.1l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_65" />
+<text 
+x="143" 
+y="628" 
+dx="0,-0.3,0,-0.3" 
+class="s6_65"
+>}); </text>
+
+<path d="M107.8,652.7l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_65" />
+<text 
+x="110" 
+y="649" 
+dx="0,0,0,-0.3" 
+class="s6_65"
+>}); </text>
+
+<path d="M107.8,673.2l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_65" />
+<path d="M107.8,694.8l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_65" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

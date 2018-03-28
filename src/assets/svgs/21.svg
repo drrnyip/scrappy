@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 21 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_21{
+fill: #D9D9D9;
+}
+.g2_21{
+fill: #FFFFFF;
+}
+
+.s1_21{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_21{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_21{
+font-size: 21.27px;
+font-family: Calibri-Light_r;
+fill: #323E4F;
+}
+.s4_21{
+font-size: 16.87px;
+font-family: Calibri-Light_r;
+fill: #323E4F;
+}
+.s5_21{
+font-size: 18.33px;
+font-family: ArialNovaCond-Light_9;
+fill: #5A5A5A;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_21"
+>21 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_21"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_21" />
+<text 
+x="110" 
+y="130" 
+class="s3_21"
+>W</text>
+
+<text 
+x="130" 
+y="130" 
+dx="0,1.4,1.7,1.5" 
+class="s4_21"
+>ORD </text>
+
+<text 
+x="170" 
+y="130" 
+class="s3_21"
+>C</text>
+
+<text 
+x="182" 
+y="130" 
+dx="0,1.7,1.4,1.7,1.4,1.4,1.3" 
+class="s4_21"
+>HUNKING</text>
+
+<text 
+x="165" 
+y="358" 
+dx="0,0.1,-0.1,-0.1,0.2,0.2,-0.1,0.2,-0.1,-0.1,0.2,-0.1,-0.1,0,0.2,0,0.2,-0.1,0.2,-0.3,0.2,-0.1,0,0,-0.1,0.2,0.2,-0.1,0,0.2,0,-0.5,0.2,-0.1,0.2,-0.1,-0.1,0.2,0.2,-0.1,0.2,-0.1,-0.2,0.2,-0.1,0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,0,0.2,0,0.2,-0.2,0.2,-0.1,-0.1,-0.1,0,0.2,0.1,0.2,-0.3,0.2,-0.2,0.2,0.2,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,-0.1,0,0.2,-0.1,0.2,-0.1,-0.1,-0.1,0.2,-0.1,-0.1,0.2,-0.1,0,0.2,0,-0.1,-0.1,-0.1,-0.1" 
+class="s5_21"
+>Upon successful detection of language and homographs, the system then aggregates groups of words </text>
+
+<text 
+x="110" 
+y="391" 
+dx="0,0,0.2,-0.1,0,0.2,-0.1,0.2,0,-0.1,0.2,-0.1,-0.1,0.2,0,-0.1,0.2,-0.3,0.2,-0.2,0.2,-0.1,-0.1,0.1,-0.2,0.2,0,-0.1,0.2,-0.1,0.2,-0.1,-0.1,-0.2,0.2,0,0.2,0,-0.1,0.2,-0.1,0,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,0,0.2,0,0.2,0,0,-0.3,0.2,-0.1,0.2,-0.4,-0.1,0.2,0.2,0.2,-0.1,0.2,-0.4,0.2,-0.1,0.2,-0.3,0.2,-0.1,0,0.2,-0.1,0,0,0.2,-0.1,0,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,0,0.2,0,0.2,0,0,0.2,-0.3,0.2,-0.1,0,0.2,-0.1,-0.1,-0.2,0.2,0,0.2,-0.5,0.2,0,0.2,0,-0.1,0.2,-0.3,0.2,-0.2" 
+class="s5_21"
+>that belongs to the same language into blocks of text. This ensures that all blocks of text that are fed into the </text>
+
+<text 
+x="110" 
+y="424" 
+dx="0,0.1,-0.1,-0.1,-0.1,0,0.2,0.2,-0.1,-0.1,-0.1,0.2,-0.1,0,-0.1,0,0.2,0.2,0,0.1,-0.1,0.2,0,-0.1,0.2,-0.1,-0.1,0.1,-0.1,-0.1,-0.1,0.2,-0.1,0.2,-0.1,0,0.2,0,-0.1,-0.1,-0.1,-0.1,0.2,0,0.2,-0.1,0,0.2,-0.1,0.2,0,-0.1,0.2,-0.1,0.2,-0.4,0.2,0.2,-0.3,0.2,-0.2,0.2,-0.1,-0.1,0.1,0.2,0.2,0,-0.5,0.2,-0.1,0.2,-0.1,-0.1,0.2,0" 
+class="s5_21"
+>Google Translate API is composed of words that belong in the same language. </text>
+
+<text 
+x="110" 
+y="518" 
+class="s3_21"
+>T</text>
+
+<text 
+x="121" 
+y="518" 
+dx="0,1.7,1.5,1.3,1.5,1.4,1.5,1.4,1.4,1.8" 
+class="s4_21"
+>RANSLATION</text>
+
+<text 
+x="165" 
+y="546" 
+dx="0,0,0,0.2,-0.1,0.2,0.2,-0.1,-0.2,0.2,0,-0.2,0.2,-0.1,0.2,-0.1,0.2,-0.1,-0.1,-0.2,0.2,0,0.2,-0.5,0.2,0,0.2,0,-0.1,0.2,-0.3,0.2,-0.2,0.2,0.1,-0.1,-0.1,-0.1,0,0.2,0.2,-0.1,-0.1,-0.1,0.2,-0.1,0,-0.1,0,0,-0.1,0.2,0.2,0,0.1,-0.4,0.2,-0.1,0.2,-0.2,0.2,-0.1,0.2,-0.1,-0.1,0.2,-0.1,0.2,-0.2,0.2,-0.1,0,-0.2,0.2,-0.1,0,0.2,-0.1,-0.1,0,0,-0.1,0,0.2,0,0,0.2,0,-0.1,0.2,0,-0.1,0.2,-0.4,0.2,0,0.2,-0.4,0.2,0.2,-0.4,0.2" 
+class="s5_21"
+>Since sentences are fed into the Google Translation API chunk by chunk, naturally, it would return in </text>
+
+<text 
+x="110" 
+y="580" 
+dx="0,-0.1,0.2,0.2,0.2,-0.1,-0.1,0.2,-0.1,-0.1,0.2,0,0.2,0,-0.4,0,0.2,-0.1,-0.2,0.2,0.2,-0.1,0.2,0,-0.1,-0.2,0,0.2,-0.4,0.2,-0.1,0.2,0,0.2,0,-0.3,0.2,0,-0.1,0.2,-0.1,-0.1,0.2,-0.1,0,0.2,-0.3,0.2,-0.1,0,0.2,-0.1,-0.1,0,0.2,0,0.2,-0.4,0.2,-0.2,0,-0.2,0.2,0.2,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,-0.1,0.2,0,-0.1,0.2,0,-0.1,0.2,-0.1,0.2,0,0.2,0,-0.3,0.2,0,-0.2,0.2,-0.1,-0.1,-0.1,0.2,-0.1,0.2,-0.1,0.2,-0.1,0.2,-0.1,0.2,-0.3,0.2,-0.1,-0.2,0.2,0,-0.2,0.2,0.2,-0.4,0.2,-0.1,0.2,0,-0.3,0.2,0,-0.1" 
+class="s5_21"
+>chunks as well. The only thing left to do at that point in the process is to put it in order and return the result to </text>
+
+<text 
+x="110" 
+y="613" 
+dx="0,0,0.2,-0.2,0.2,0.2,-0.1,0.2,-0.1,-0.3" 
+class="s5_21"
+>the user. </text>
+
+<image preserveAspectRatio="none" x="110" y="146" width="715" height="123" xlink:href="21/img/1.png" />
+<path d="M110,333.1l715,0l0,-65.5l-715,0l0,65.5Z" class="g2_21" />
+<image preserveAspectRatio="none" x="110" y="268" width="715" height="65" xlink:href="21/img/2.png" />
+<text 
+x="110" 
+y="286" 
+dx="0,-0.1,0,-0.1,0.2,-0.1,0.2,0.2,-0.1,0,-0.1,0.2,0,0.2,-0.1,0,-0.1,0.1,-0.1,0,0.2,0.2,-0.1,-0.3,0.2,0,-0.1,-0.1,-0.1,0.2,-0.1,0.2,0.2,0.2,-0.1,0,0.2,-0.5,0.2,-0.1,-0.1,-0.1,-0.1,0.2,-0.1,-0.1,0.2,-0.1,0.2,-0.1,0.2,0,0.2,-0.1,0,0.2,-0.1,0.2,-0.2,0.2,-0.1,-0.1,0.2,0,-0.1,-0.1,-0.1,0.2,0,0,-0.1,0.2,0.2,-0.1,0.2,0,-0.1,-0.1,0.2,0.2,-0.5,0.2,0,0.2,-0.1,0.2,-0.1,-0.2,0.2,-0.3,0.2,0,-0.1,0.2,-0.1,0.2,0.2,0,-0.1,-0.5,0.2,-0.1,0,-0.1,0,0.2,-0.1" 
+class="s5_21"
+>Figure 9.5 – Example of word chunking process and what chunks look like before being sent to be translated </text>
+
+<text 
+x="110" 
+y="312" 
+dx="0,-0.1,-0.1,0.2,-0.1,-0.1,0,-0.1,0,0.2,0.2,0,-0.1,0.2,-0.1,0.2,-0.1,-0.1,0.2,0" 
+class="s5_21"
+>by origin language. </text>
+
+<image preserveAspectRatio="none" x="110" y="642" width="715" height="125" xlink:href="21/img/3.png" />
+<path d="M110,812.8l715,0l0,-38.9l-715,0l0,38.9Z" class="g2_21" />
+<image preserveAspectRatio="none" x="110" y="774" width="715" height="39" xlink:href="21/img/4.png" />
+<text 
+x="110" 
+y="792" 
+dx="0,-0.1,0,-0.1,0.2,-0.1,0.2,0.2,-0.1,0,-0.1,0.2,0,0.2,-0.1,0,-0.1,0.1,-0.1,0,0.2,0.2,-0.1,-0.3,0.2,-0.1,0.2,-0.1,-0.1,-0.1,0.2,0.1,-0.1,0,0,0,-0.1,0.2,0.2,-0.1,-0.2,0.2,0,-0.2,0.2,-0.1,0.2,0.2,-0.1,0.2,0,-0.1,-0.1,-0.2,0.2,-0.5,0.2,-0.1,0.2,-0.1,0,0,0.2,-0.1,0.2,0,-0.1,-0.5,0.2,-0.1,0,-0.1,0,0,-0.1,0.2,0" 
+class="s5_21"
+>Figure 9.6 – Example of a code-switch sentence before and after translation. </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNovaCond-Light_9;
+	src: url("fonts/ArialNovaCond-Light_9.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

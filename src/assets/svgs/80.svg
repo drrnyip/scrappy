@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 80 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_80{
+fill: #D9D9D9;
+}
+.g2_80{
+fill: #FFFFFF;
+}
+
+.s1_80{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_80{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s4_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s5_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s6_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+.s7_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+.s8_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s9_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #09885A;
+}
+.s10_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #795E26;
+}
+.s11_80{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #811F3F;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_80"
+>80 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_80"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_80" />
+<path d="M107.8,130.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="127" 
+class="s3_80"
+>if </text>
+
+<text 
+x="234" 
+y="127" 
+class="s4_80"
+>(</text>
+
+<text 
+x="242" 
+y="127" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s5_80"
+>language </text>
+
+<text 
+x="317" 
+y="127" 
+dx="0,-0.3,0,0" 
+class="s4_80"
+>=== </text>
+
+<text 
+x="350" 
+y="127" 
+dx="0,0,-0.3,0" 
+class="s6_80"
+>'id'</text>
+
+<text 
+x="383" 
+y="127" 
+dx="0,0,0,-0.3" 
+class="s4_80"
+>) { </text>
+
+<path d="M107.8,151.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="242" 
+y="147" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s5_80"
+>language </text>
+
+<text 
+x="317" 
+y="147" 
+dx="0,-0.3" 
+class="s4_80"
+>= </text>
+
+<text 
+x="333" 
+y="147" 
+dx="0,0,-0.3,0" 
+class="s6_80"
+>'ms'</text>
+
+<text 
+x="366" 
+y="147" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,172l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="209" 
+y="168" 
+dx="0,-0.3" 
+class="s4_80"
+>} </text>
+
+<path d="M107.8,192.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="189" 
+class="s3_80"
+>if </text>
+
+<text 
+x="234" 
+y="189" 
+class="s4_80"
+>(</text>
+
+<text 
+x="242" 
+y="189" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s5_80"
+>matrixLanguage </text>
+
+<text 
+x="366" 
+y="189" 
+dx="0,0,-0.3,0" 
+class="s4_80"
+>=== </text>
+
+<text 
+x="400" 
+y="189" 
+dx="0,-0.3,0,-0.3" 
+class="s6_80"
+>'id'</text>
+
+<text 
+x="433" 
+y="189" 
+dx="0,0,-0.3,-0.3" 
+class="s4_80"
+>) { </text>
+
+<path d="M107.8,213l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="242" 
+y="209" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1" 
+class="s5_80"
+>matrixLanguage </text>
+
+<text 
+x="366" 
+y="209" 
+class="s4_80"
+>= </text>
+
+<text 
+x="383" 
+y="209" 
+dx="0,0,0,-0.3" 
+class="s6_80"
+>'ms'</text>
+
+<text 
+x="416" 
+y="209" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,233.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="209" 
+y="230" 
+dx="0,-0.3" 
+class="s4_80"
+>} </text>
+
+<path d="M107.8,254.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<path d="M107.8,275l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="271" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.4" 
+class="s7_80"
+>// Store language in corresponding array </text>
+
+<path d="M107.8,295.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="292" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s5_80"
+>textLanguage</text>
+
+<text 
+x="308" 
+y="292" 
+class="s4_80"
+>[</text>
+
+<text 
+x="317" 
+y="292" 
+class="s5_80"
+>i</text>
+
+<text 
+x="325" 
+y="292" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s4_80"
+>] = { </text>
+
+<path d="M107.8,316.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="242" 
+y="312" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s5_80"
+>language</text>
+
+<text 
+x="308" 
+y="312" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<path d="M107.8,337l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="242" 
+y="333" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_80"
+>punctuated </text>
+
+<path d="M107.8,357.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="354" 
+dx="0,0,-0.3" 
+class="s4_80"
+>}; </text>
+
+<path d="M107.8,378l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="176" 
+y="374" 
+dx="0,-0.3" 
+class="s4_80"
+>} </text>
+
+<path d="M107.8,398.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<path d="M107.8,419.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="176" 
+y="416" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,-0.4" 
+class="s7_80"
+>// Set exceptions here </text>
+
+<path d="M107.8,440l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<path d="M107.8,460.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="176" 
+y="457" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,-0.4" 
+class="s7_80"
+>// Create lowercase word array for case-insensitive check on exceptions </text>
+
+<path d="M107.8,481.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="176" 
+y="477" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s8_80"
+>const </text>
+
+<text 
+x="226" 
+y="477" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s5_80"
+>lowerCaseArray </text>
+
+<text 
+x="350" 
+y="477" 
+dx="0,0,-0.3,0,-0.3,-0.3" 
+class="s4_80"
+>= []; </text>
+
+<path d="M107.8,502l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="176" 
+y="498" 
+dx="0,0,-0.3,0" 
+class="s3_80"
+>for </text>
+
+<text 
+x="209" 
+y="498" 
+class="s4_80"
+>(</text>
+
+<text 
+x="217" 
+y="498" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>let </text>
+
+<text 
+x="250" 
+y="498" 
+class="s5_80"
+>i </text>
+
+<text 
+x="267" 
+y="498" 
+class="s4_80"
+>= </text>
+
+<text 
+x="284" 
+y="498" 
+class="s9_80"
+>0</text>
+
+<text 
+x="292" 
+y="498" 
+class="s4_80"
+>; </text>
+
+<text 
+x="308" 
+y="498" 
+class="s5_80"
+>i </text>
+
+<text 
+x="325" 
+y="498" 
+class="s4_80"
+>&lt; </text>
+
+<text 
+x="342" 
+y="498" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>textArray</text>
+
+<text 
+x="416" 
+y="498" 
+class="s4_80"
+>.</text>
+
+<text 
+x="424" 
+y="498" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s5_80"
+>length</text>
+
+<text 
+x="474" 
+y="498" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<text 
+x="490" 
+y="498" 
+class="s5_80"
+>i</text>
+
+<text 
+x="499" 
+y="498" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s4_80"
+>++) { </text>
+
+<path d="M107.8,522.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="519" 
+dx="0,0,0,-0.3" 
+class="s8_80"
+>let </text>
+
+<text 
+x="242" 
+y="519" 
+dx="0,-0.3,0,-0.3,0.1" 
+class="s5_80"
+>word </text>
+
+<text 
+x="284" 
+y="519" 
+dx="0,-0.3" 
+class="s4_80"
+>= </text>
+
+<text 
+x="300" 
+y="519" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s5_80"
+>textArray</text>
+
+<text 
+x="375" 
+y="519" 
+class="s4_80"
+>[</text>
+
+<text 
+x="383" 
+y="519" 
+class="s5_80"
+>i</text>
+
+<text 
+x="391" 
+y="519" 
+class="s4_80"
+>].</text>
+
+<text 
+x="408" 
+y="519" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s10_80"
+>toLowerCase</text>
+
+<text 
+x="499" 
+y="519" 
+dx="0,-0.3,0,-0.3" 
+class="s4_80"
+>(); </text>
+
+<path d="M107.8,543l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="539" 
+dx="0,0,0,-0.3,0" 
+class="s5_80"
+>word </text>
+
+<text 
+x="250" 
+y="539" 
+class="s4_80"
+>= </text>
+
+<text 
+x="267" 
+y="539" 
+dx="0,0,0,-0.3" 
+class="s5_80"
+>word</text>
+
+<text 
+x="300" 
+y="539" 
+class="s4_80"
+>.</text>
+
+<text 
+x="308" 
+y="539" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>replace</text>
+
+<text 
+x="366" 
+y="539" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="539" 
+class="s11_80"
+>/</text>
+
+<text 
+x="383" 
+y="539" 
+class="s6_80"
+>\,</text>
+
+<text 
+x="400" 
+y="539" 
+class="s11_80"
+>/</text>
+
+<text 
+x="408" 
+y="539" 
+class="s8_80"
+>g</text>
+
+<text 
+x="416" 
+y="539" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<text 
+x="433" 
+y="539" 
+class="s6_80"
+>''</text>
+
+<text 
+x="449" 
+y="539" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,563.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="209" 
+y="560" 
+dx="0,0,0,-0.3,0" 
+class="s5_80"
+>word </text>
+
+<text 
+x="250" 
+y="560" 
+class="s4_80"
+>= </text>
+
+<text 
+x="267" 
+y="560" 
+dx="0,0,0,-0.3" 
+class="s5_80"
+>word</text>
+
+<text 
+x="300" 
+y="560" 
+class="s4_80"
+>.</text>
+
+<text 
+x="308" 
+y="560" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>replace</text>
+
+<text 
+x="366" 
+y="560" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="560" 
+class="s11_80"
+>/</text>
+
+<text 
+x="383" 
+y="560" 
+class="s6_80"
+>\.</text>
+
+<text 
+x="400" 
+y="560" 
+class="s11_80"
+>/</text>
+
+<text 
+x="408" 
+y="560" 
+class="s8_80"
+>g</text>
+
+<text 
+x="416" 
+y="560" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<text 
+x="433" 
+y="560" 
+class="s6_80"
+>''</text>
+
+<text 
+x="449" 
+y="560" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,584.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="209" 
+y="581" 
+dx="0,0,0,-0.3,0" 
+class="s5_80"
+>word </text>
+
+<text 
+x="250" 
+y="581" 
+class="s4_80"
+>= </text>
+
+<text 
+x="267" 
+y="581" 
+dx="0,0,0,-0.3" 
+class="s5_80"
+>word</text>
+
+<text 
+x="300" 
+y="581" 
+class="s4_80"
+>.</text>
+
+<text 
+x="308" 
+y="581" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>replace</text>
+
+<text 
+x="366" 
+y="581" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="581" 
+class="s11_80"
+>/</text>
+
+<text 
+x="383" 
+y="581" 
+class="s6_80"
+>\!</text>
+
+<text 
+x="400" 
+y="581" 
+class="s11_80"
+>/</text>
+
+<text 
+x="408" 
+y="581" 
+class="s8_80"
+>g</text>
+
+<text 
+x="416" 
+y="581" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<text 
+x="433" 
+y="581" 
+class="s6_80"
+>''</text>
+
+<text 
+x="449" 
+y="581" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,605l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="601" 
+dx="0,0,0,-0.3,0" 
+class="s5_80"
+>word </text>
+
+<text 
+x="250" 
+y="601" 
+class="s4_80"
+>= </text>
+
+<text 
+x="267" 
+y="601" 
+dx="0,0,0,-0.3" 
+class="s5_80"
+>word</text>
+
+<text 
+x="300" 
+y="601" 
+class="s4_80"
+>.</text>
+
+<text 
+x="308" 
+y="601" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>replace</text>
+
+<text 
+x="366" 
+y="601" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="601" 
+class="s11_80"
+>/</text>
+
+<text 
+x="383" 
+y="601" 
+class="s6_80"
+>\?</text>
+
+<text 
+x="400" 
+y="601" 
+class="s11_80"
+>/</text>
+
+<text 
+x="408" 
+y="601" 
+class="s8_80"
+>g</text>
+
+<text 
+x="416" 
+y="601" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<text 
+x="433" 
+y="601" 
+class="s6_80"
+>''</text>
+
+<text 
+x="449" 
+y="601" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,625.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="622" 
+dx="0,0,0,-0.3,0" 
+class="s5_80"
+>word </text>
+
+<text 
+x="250" 
+y="622" 
+class="s4_80"
+>= </text>
+
+<text 
+x="267" 
+y="622" 
+dx="0,0,0,-0.3" 
+class="s5_80"
+>word</text>
+
+<text 
+x="300" 
+y="622" 
+class="s4_80"
+>.</text>
+
+<text 
+x="308" 
+y="622" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>replace</text>
+
+<text 
+x="366" 
+y="622" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="622" 
+class="s11_80"
+>/</text>
+
+<text 
+x="383" 
+y="622" 
+class="s6_80"
+>\;</text>
+
+<text 
+x="400" 
+y="622" 
+class="s11_80"
+>/</text>
+
+<text 
+x="408" 
+y="622" 
+class="s8_80"
+>g</text>
+
+<text 
+x="416" 
+y="622" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<text 
+x="433" 
+y="622" 
+class="s6_80"
+>''</text>
+
+<text 
+x="449" 
+y="622" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,646.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="209" 
+y="642" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s5_80"
+>lowerCaseArray</text>
+
+<text 
+x="325" 
+y="642" 
+class="s4_80"
+>.</text>
+
+<text 
+x="333" 
+y="642" 
+dx="0,0,-0.3,0" 
+class="s10_80"
+>push</text>
+
+<text 
+x="366" 
+y="642" 
+class="s4_80"
+>(</text>
+
+<text 
+x="375" 
+y="642" 
+dx="0,-0.3,0,0" 
+class="s5_80"
+>word</text>
+
+<text 
+x="408" 
+y="642" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,667l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="176" 
+y="663" 
+dx="0,-0.3" 
+class="s4_80"
+>} </text>
+
+<path d="M107.8,687.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<path d="M107.8,708l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="176" 
+y="704" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.4" 
+class="s7_80"
+>// Detect if indexOf homographs strike true. </text>
+
+<path d="M107.8,728.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="176" 
+y="725" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s8_80"
+>const </text>
+
+<text 
+x="226" 
+y="725" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s5_80"
+>homographMatch </text>
+
+<text 
+x="350" 
+y="725" 
+dx="0,0,-0.3,0,-0.3,-0.3" 
+class="s4_80"
+>= []; </text>
+
+<path d="M107.8,749.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="176" 
+y="746" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>let </text>
+
+<text 
+x="209" 
+y="746" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s5_80"
+>loopBreak </text>
+
+<text 
+x="292" 
+y="746" 
+class="s4_80"
+>= </text>
+
+<text 
+x="308" 
+y="746" 
+dx="0,0,-0.3,0,0" 
+class="s8_80"
+>false</text>
+
+<text 
+x="350" 
+y="746" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,770l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="176" 
+y="766" 
+dx="0,0,-0.3,0" 
+class="s3_80"
+>for </text>
+
+<text 
+x="209" 
+y="766" 
+class="s4_80"
+>(</text>
+
+<text 
+x="217" 
+y="766" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>let </text>
+
+<text 
+x="250" 
+y="766" 
+class="s5_80"
+>i </text>
+
+<text 
+x="267" 
+y="766" 
+class="s4_80"
+>= </text>
+
+<text 
+x="284" 
+y="766" 
+class="s9_80"
+>0</text>
+
+<text 
+x="292" 
+y="766" 
+class="s4_80"
+>; </text>
+
+<text 
+x="308" 
+y="766" 
+class="s5_80"
+>i </text>
+
+<text 
+x="325" 
+y="766" 
+class="s4_80"
+>&lt; </text>
+
+<text 
+x="342" 
+y="766" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>lowerCaseArray</text>
+
+<text 
+x="457" 
+y="766" 
+class="s4_80"
+>.</text>
+
+<text 
+x="466" 
+y="766" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>length</text>
+
+<text 
+x="515" 
+y="766" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<text 
+x="532" 
+y="766" 
+class="s5_80"
+>i</text>
+
+<text 
+x="540" 
+y="766" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s4_80"
+>++) { </text>
+
+<path d="M107.8,790.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="209" 
+y="787" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s5_80"
+>loopBreak </text>
+
+<text 
+x="292" 
+y="787" 
+class="s4_80"
+>= </text>
+
+<text 
+x="308" 
+y="787" 
+dx="0,0,-0.3,0,0" 
+class="s8_80"
+>false</text>
+
+<text 
+x="350" 
+y="787" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,811.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="209" 
+y="807" 
+dx="0,0,0,-0.3" 
+class="s3_80"
+>for </text>
+
+<text 
+x="242" 
+y="807" 
+class="s4_80"
+>(</text>
+
+<text 
+x="250" 
+y="807" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>let </text>
+
+<text 
+x="284" 
+y="807" 
+dx="0,-0.3" 
+class="s5_80"
+>k </text>
+
+<text 
+x="300" 
+y="807" 
+dx="0,-0.3" 
+class="s4_80"
+>= </text>
+
+<text 
+x="317" 
+y="807" 
+class="s9_80"
+>0</text>
+
+<text 
+x="325" 
+y="807" 
+class="s4_80"
+>; </text>
+
+<text 
+x="342" 
+y="807" 
+dx="0,-0.3" 
+class="s5_80"
+>k </text>
+
+<text 
+x="358" 
+y="807" 
+dx="0,-0.3" 
+class="s4_80"
+>&lt; </text>
+
+<text 
+x="375" 
+y="807" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>homographs</text>
+
+<text 
+x="457" 
+y="807" 
+class="s4_80"
+>.</text>
+
+<text 
+x="466" 
+y="807" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>length</text>
+
+<text 
+x="515" 
+y="807" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<text 
+x="532" 
+y="807" 
+class="s5_80"
+>k</text>
+
+<text 
+x="540" 
+y="807" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s4_80"
+>++) { </text>
+
+<path d="M107.8,832l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="242" 
+y="828" 
+dx="0,-0.3,0,-0.3,0,0.1" 
+class="s8_80"
+>const </text>
+
+<text 
+x="292" 
+y="828" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s5_80"
+>locale </text>
+
+<text 
+x="350" 
+y="828" 
+class="s4_80"
+>= </text>
+
+<text 
+x="366" 
+y="828" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s5_80"
+>lowerCaseArray</text>
+
+<text 
+x="482" 
+y="828" 
+class="s4_80"
+>[</text>
+
+<text 
+x="490" 
+y="828" 
+class="s5_80"
+>i</text>
+
+<text 
+x="499" 
+y="828" 
+dx="0,-0.3" 
+class="s4_80"
+>].</text>
+
+<text 
+x="515" 
+y="828" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s10_80"
+>localeCompare</text>
+
+<text 
+x="623" 
+y="828" 
+class="s4_80"
+>(</text>
+
+<text 
+x="631" 
+y="828" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s5_80"
+>homographs</text>
+
+<text 
+x="714" 
+y="828" 
+class="s4_80"
+>[</text>
+
+<text 
+x="722" 
+y="828" 
+class="s5_80"
+>k</text>
+
+<text 
+x="731" 
+y="828" 
+dx="0,-0.3" 
+class="s4_80"
+>].</text>
+
+<text 
+x="747" 
+y="828" 
+dx="0,-0.3,0,0" 
+class="s5_80"
+>word</text>
+
+<text 
+x="780" 
+y="828" 
+dx="0,0,-0.3" 
+class="s4_80"
+>); </text>
+
+<path d="M107.8,852.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="242" 
+y="849" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s3_80"
+>switch </text>
+
+<text 
+x="300" 
+y="849" 
+class="s4_80"
+>(</text>
+
+<text 
+x="308" 
+y="849" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>locale</text>
+
+<text 
+x="358" 
+y="849" 
+dx="0,-0.3,0,-0.3" 
+class="s4_80"
+>) { </text>
+
+<path d="M107.8,873l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="275" 
+y="869" 
+dx="0,0,-0.3,0,-0.3" 
+class="s3_80"
+>case </text>
+
+<text 
+x="317" 
+y="869" 
+class="s9_80"
+>0</text>
+
+<text 
+x="325" 
+y="869" 
+dx="0,0,0,-0.3" 
+class="s4_80"
+>: { </text>
+
+<path d="M107.8,893.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="308" 
+y="890" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s5_80"
+>homographMatch</text>
+
+<text 
+x="424" 
+y="890" 
+class="s4_80"
+>.</text>
+
+<text 
+x="433" 
+y="890" 
+dx="0,0,-0.3,0" 
+class="s10_80"
+>push</text>
+
+<text 
+x="466" 
+y="890" 
+dx="0,0,-0.3" 
+class="s4_80"
+>({ </text>
+
+<path d="M107.8,914.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="342" 
+y="911" 
+dx="0,-0.3,0,-0.3,0,-0.3,0.1,0" 
+class="s5_80"
+>index: i</text>
+
+<text 
+x="408" 
+y="911" 
+dx="0,-0.3" 
+class="s4_80"
+>, </text>
+
+<path d="M107.8,935l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="342" 
+y="931" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_80"
+>commonLanguage: homographs</text>
+
+<text 
+x="557" 
+y="931" 
+class="s4_80"
+>[</text>
+
+<text 
+x="565" 
+y="931" 
+class="s5_80"
+>k</text>
+
+<text 
+x="573" 
+y="931" 
+dx="0,-0.3" 
+class="s4_80"
+>].</text>
+
+<text 
+x="590" 
+y="931" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_80"
+>language </text>
+
+<path d="M107.8,955.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="308" 
+y="952" 
+dx="0,0,-0.3,-0.3" 
+class="s4_80"
+>}); </text>
+
+<path d="M107.8,976.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="308" 
+y="972" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_80"
+>loopBreak </text>
+
+<text 
+x="391" 
+y="972" 
+class="s4_80"
+>= </text>
+
+<text 
+x="408" 
+y="972" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>true</text>
+
+<text 
+x="441" 
+y="972" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,997l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="308" 
+y="993" 
+dx="0,0,-0.3,0,0" 
+class="s3_80"
+>break</text>
+
+<text 
+x="350" 
+y="993" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,1017.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="275" 
+y="1014" 
+dx="0,-0.3" 
+class="s4_80"
+>} </text>
+
+<path d="M107.8,1038l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_80" />
+<text 
+x="275" 
+y="1034" 
+dx="0,0,-0.3,0,-0.3" 
+class="s3_80"
+>case </text>
+
+<text 
+x="317" 
+y="1034" 
+class="s4_80"
+>-</text>
+
+<text 
+x="325" 
+y="1034" 
+class="s9_80"
+>1</text>
+
+<text 
+x="333" 
+y="1034" 
+dx="0,0,-0.3,-0.3" 
+class="s4_80"
+>: { </text>
+
+<path d="M107.8,1058.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_80" />
+<text 
+x="308" 
+y="1055" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_80"
+>loopBreak </text>
+
+<text 
+x="391" 
+y="1055" 
+class="s4_80"
+>= </text>
+
+<text 
+x="408" 
+y="1055" 
+dx="0,0,-0.3,0" 
+class="s8_80"
+>true</text>
+
+<text 
+x="441" 
+y="1055" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+<path d="M107.8,1079.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_80" />
+<text 
+x="308" 
+y="1076" 
+dx="0,0,-0.3,0,0" 
+class="s3_80"
+>break</text>
+
+<text 
+x="350" 
+y="1076" 
+dx="0,-0.3" 
+class="s4_80"
+>; </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

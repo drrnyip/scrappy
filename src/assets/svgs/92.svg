@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 92 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_92{
+fill: #5A5A5A;
+}
+
+.s1_92{
+font-size: 18.33px;
+font-family: Consolas_c7;
+fill: #5A5A5A;
+}
+.s2_92{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s3_92{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_92{
+font-size: 13.93px;
+font-family: Consolas_c7;
+fill: #5A5A5A;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="127" 
+dx="0,0.2,-0.2,0.2,-0.2,0.2" 
+class="s1_92"
+>File: </text>
+
+<text 
+x="170" 
+y="127" 
+class="s2_92"
+>3</text>
+
+<text 
+x="181" 
+y="127" 
+dx="0,1.4" 
+class="s3_92"
+>RD</text>
+
+<text 
+x="200" 
+y="127" 
+class="s2_92"
+>D</text>
+
+<text 
+x="213" 
+y="127" 
+dx="0,1.6,1.3,1.3,1.6,1.4,1.6,1.6,1.4" 
+class="s3_92"
+>ICTIONARY</text>
+
+<text 
+x="290" 
+y="127" 
+dx="0,0.2,-0.2,0.2,-0.2" 
+class="s1_92"
+>.txt </text>
+
+<path d="M110,131.3l60.9,0l0,-1.5l-60.9,0l0,1.5Z" class="g1_92" />
+<path d="M290.8,131.3l40.3,0l0,-1.5l-40.3,0l0,1.5Z" class="g1_92" />
+<text 
+x="110" 
+y="161" 
+dx="0,0,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s4_92"
+>*Content too long to be printed. Can be found at </text>
+
+<text 
+x="110" 
+y="177" 
+dx="0,0,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,0,-0.3,-0.4" 
+class="s4_92"
+>http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Consolas_c7;
+	src: url("fonts/Consolas_c7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

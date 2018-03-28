@@ -1,0 +1,2144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 85 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_85{
+fill: #D9D9D9;
+}
+.g2_85{
+fill: #FFFFFF;
+}
+
+.s1_85{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_85{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s4_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #AF00DB;
+}
+.s5_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #001080;
+}
+.s6_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #795E26;
+}
+.s7_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #A31515;
+}
+.s8_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #09885A;
+}
+.s9_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0000FF;
+}
+.s10_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #267F99;
+}
+.s11_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #811F3F;
+}
+.s12_85{
+font-size: 13.93px;
+font-family: MS-Mincho_im;
+fill: #811F3F;
+}
+.s13_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #D16969;
+}
+.s14_85{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_85"
+>85 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_85"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_85" />
+<path d="M107.8,130.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="176" 
+y="127" 
+dx="0,-0.3" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,151.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="176" 
+y="147" 
+dx="0,0,-0.3" 
+class="s4_85"
+>if </text>
+
+<text 
+x="201" 
+y="147" 
+class="s3_85"
+>(</text>
+
+<text 
+x="209" 
+y="147" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_85"
+>sourceLanguage </text>
+
+<text 
+x="333" 
+y="147" 
+dx="0,0,-0.3,0" 
+class="s3_85"
+>!== </text>
+
+<text 
+x="366" 
+y="147" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.4" 
+class="s5_85"
+>destinationLanguage </text>
+
+<text 
+x="532" 
+y="147" 
+dx="0,0,-0.3" 
+class="s3_85"
+>&amp;&amp; </text>
+
+<text 
+x="557" 
+y="147" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_85"
+>sourceLanguage</text>
+
+<text 
+x="673" 
+y="147" 
+class="s3_85"
+>.</text>
+
+<text 
+x="681" 
+y="147" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s6_85"
+>indexOf</text>
+
+<text 
+x="739" 
+y="147" 
+class="s3_85"
+>(</text>
+
+<text 
+x="747" 
+y="147" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_85"
+>'und'</text>
+
+<text 
+x="789" 
+y="147" 
+dx="0,-0.3,0,0" 
+class="s3_85"
+>) &lt; </text>
+
+<path d="M107.8,172l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="110" 
+y="168" 
+class="s8_85"
+>0</text>
+
+<text 
+x="118" 
+y="168" 
+dx="0,0,-0.3,-0.3" 
+class="s3_85"
+>) { </text>
+
+<path d="M107.8,192.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="209" 
+y="189" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s5_85"
+>query </text>
+
+<text 
+x="259" 
+y="189" 
+dx="0,-0.3,0" 
+class="s3_85"
+>+= </text>
+
+<text 
+x="284" 
+y="189" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_85"
+>'&amp;source=' </text>
+
+<text 
+x="375" 
+y="189" 
+dx="0,-0.3" 
+class="s3_85"
+>+ </text>
+
+<text 
+x="391" 
+y="189" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>sourceLanguage</text>
+
+<text 
+x="507" 
+y="189" 
+dx="0,-0.3" 
+class="s3_85"
+>; </text>
+
+<path d="M107.8,213l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="176" 
+y="209" 
+dx="0,-0.3" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,233.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="176" 
+y="230" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s9_85"
+>const </text>
+
+<text 
+x="226" 
+y="230" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_85"
+>response </text>
+
+<text 
+x="300" 
+y="230" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="317" 
+y="230" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_85"
+>httpGet</text>
+
+<text 
+x="375" 
+y="230" 
+class="s3_85"
+>(</text>
+
+<text 
+x="383" 
+y="230" 
+dx="0,0,0,-0.3,0" 
+class="s5_85"
+>query</text>
+
+<text 
+x="424" 
+y="230" 
+dx="0,-0.3" 
+class="s3_85"
+>) </text>
+
+<path d="M107.8,254.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="209" 
+y="251" 
+class="s3_85"
+>.</text>
+
+<text 
+x="217" 
+y="251" 
+dx="0,0,-0.3,0" 
+class="s6_85"
+>then</text>
+
+<text 
+x="250" 
+y="251" 
+class="s3_85"
+>((</text>
+
+<text 
+x="267" 
+y="251" 
+dx="0,0,0,-0.3" 
+class="s5_85"
+>data</text>
+
+<text 
+x="300" 
+y="251" 
+dx="0,-0.3" 
+class="s3_85"
+>: </text>
+
+<text 
+x="317" 
+y="251" 
+dx="0,-0.3,0" 
+class="s10_85"
+>any</text>
+
+<text 
+x="342" 
+y="251" 
+dx="0,-0.3" 
+class="s3_85"
+>) </text>
+
+<text 
+x="358" 
+y="251" 
+dx="0,-0.3,0" 
+class="s9_85"
+>=&gt; </text>
+
+<text 
+x="383" 
+y="251" 
+dx="0,-0.3" 
+class="s3_85"
+>{ </text>
+
+<path d="M107.8,275l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="242" 
+y="271" 
+dx="0,-0.3,0" 
+class="s4_85"
+>if </text>
+
+<text 
+x="267" 
+y="271" 
+class="s3_85"
+>(</text>
+
+<text 
+x="275" 
+y="271" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>data</text>
+
+<text 
+x="308" 
+y="271" 
+class="s3_85"
+>.</text>
+
+<text 
+x="317" 
+y="271" 
+dx="0,-0.3,0,0,-0.3,0.1" 
+class="s5_85"
+>error </text>
+
+<text 
+x="366" 
+y="271" 
+dx="0,0,-0.3" 
+class="s3_85"
+>&amp;&amp; </text>
+
+<text 
+x="391" 
+y="271" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>data</text>
+
+<text 
+x="424" 
+y="271" 
+class="s3_85"
+>.</text>
+
+<text 
+x="433" 
+y="271" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_85"
+>error</text>
+
+<text 
+x="474" 
+y="271" 
+class="s3_85"
+>.</text>
+
+<text 
+x="482" 
+y="271" 
+dx="0,0,0,-0.3,0" 
+class="s5_85"
+>code </text>
+
+<text 
+x="523" 
+y="271" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>=== </text>
+
+<text 
+x="557" 
+y="271" 
+dx="0,-0.3,0" 
+class="s8_85"
+>400</text>
+
+<text 
+x="581" 
+y="271" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>) { </text>
+
+<path d="M107.8,295.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="275" 
+y="292" 
+dx="0,0,-0.3" 
+class="s6_85"
+>rej</text>
+
+<text 
+x="300" 
+y="292" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="292" 
+dx="0,0,-0.3,0" 
+class="s9_85"
+>new </text>
+
+<text 
+x="342" 
+y="292" 
+dx="0,-0.3,0,-0.3,0" 
+class="s10_85"
+>Error</text>
+
+<text 
+x="383" 
+y="292" 
+class="s3_85"
+>(</text>
+
+<text 
+x="391" 
+y="292" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s7_85"
+>'Invalid target language code'</text>
+
+<text 
+x="639" 
+y="292" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>)); </text>
+
+<path d="M107.8,316.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="242" 
+y="312" 
+dx="0,-0.3" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,337l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="242" 
+y="333" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_85"
+>console</text>
+
+<text 
+x="300" 
+y="333" 
+class="s3_85"
+>.</text>
+
+<text 
+x="308" 
+y="333" 
+dx="0,0,-0.3" 
+class="s6_85"
+>log</text>
+
+<text 
+x="333" 
+y="333" 
+class="s3_85"
+>(</text>
+
+<text 
+x="342" 
+y="333" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_85"
+>'====='</text>
+
+<text 
+x="400" 
+y="333" 
+dx="0,-0.3,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,357.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="242" 
+y="354" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_85"
+>console</text>
+
+<text 
+x="300" 
+y="354" 
+class="s3_85"
+>.</text>
+
+<text 
+x="308" 
+y="354" 
+dx="0,0,-0.3" 
+class="s6_85"
+>log</text>
+
+<text 
+x="333" 
+y="354" 
+class="s3_85"
+>(</text>
+
+<text 
+x="342" 
+y="354" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s5_85"
+>string</text>
+
+<text 
+x="391" 
+y="354" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,378l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="242" 
+y="374" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_85"
+>console</text>
+
+<text 
+x="300" 
+y="374" 
+class="s3_85"
+>.</text>
+
+<text 
+x="308" 
+y="374" 
+dx="0,0,-0.3" 
+class="s6_85"
+>log</text>
+
+<text 
+x="333" 
+y="374" 
+class="s3_85"
+>(</text>
+
+<text 
+x="342" 
+y="374" 
+dx="0,-0.3,0,-0.3,0,-0.3,0,0.1" 
+class="s7_85"
+>'From ' </text>
+
+<text 
+x="408" 
+y="374" 
+class="s3_85"
+>+ </text>
+
+<text 
+x="424" 
+y="374" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>sourceLanguage </text>
+
+<text 
+x="548" 
+y="374" 
+class="s3_85"
+>+ </text>
+
+<text 
+x="565" 
+y="374" 
+dx="0,0,-0.3,0,0,-0.3,0" 
+class="s7_85"
+>' to ' </text>
+
+<text 
+x="623" 
+y="374" 
+class="s3_85"
+>+ </text>
+
+<text 
+x="639" 
+y="374" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s5_85"
+>destinationLanguage</text>
+
+<text 
+x="797" 
+y="374" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,398.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="242" 
+y="395" 
+dx="0,-0.3,0,-0.3,0,0.1" 
+class="s9_85"
+>const </text>
+
+<text 
+x="292" 
+y="395" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>result </text>
+
+<text 
+x="350" 
+y="395" 
+class="s3_85"
+>= </text>
+
+<text 
+x="366" 
+y="395" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>data</text>
+
+<text 
+x="400" 
+y="395" 
+class="s3_85"
+>.</text>
+
+<text 
+x="408" 
+y="395" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>data</text>
+
+<text 
+x="441" 
+y="395" 
+class="s3_85"
+>.</text>
+
+<text 
+x="449" 
+y="395" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>translations</text>
+
+<text 
+x="548" 
+y="395" 
+class="s3_85"
+>[</text>
+
+<text 
+x="557" 
+y="395" 
+class="s8_85"
+>0</text>
+
+<text 
+x="565" 
+y="395" 
+dx="0,0,-0.3" 
+class="s3_85"
+>]; </text>
+
+<path d="M107.8,419.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="242" 
+y="416" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_85"
+>console</text>
+
+<text 
+x="300" 
+y="416" 
+class="s3_85"
+>.</text>
+
+<text 
+x="308" 
+y="416" 
+dx="0,0,-0.3" 
+class="s6_85"
+>log</text>
+
+<text 
+x="333" 
+y="416" 
+class="s3_85"
+>(</text>
+
+<text 
+x="342" 
+y="416" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s5_85"
+>result</text>
+
+<text 
+x="391" 
+y="416" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,440l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="242" 
+y="436" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s10_85"
+>console</text>
+
+<text 
+x="300" 
+y="436" 
+class="s3_85"
+>.</text>
+
+<text 
+x="308" 
+y="436" 
+dx="0,0,-0.3" 
+class="s6_85"
+>log</text>
+
+<text 
+x="333" 
+y="436" 
+class="s3_85"
+>(</text>
+
+<text 
+x="342" 
+y="436" 
+dx="0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_85"
+>'====='</text>
+
+<text 
+x="400" 
+y="436" 
+dx="0,-0.3,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,460.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="242" 
+y="457" 
+dx="0,-0.3,0" 
+class="s6_85"
+>res</text>
+
+<text 
+x="267" 
+y="457" 
+class="s3_85"
+>(</text>
+
+<text 
+x="275" 
+y="457" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s5_85"
+>result</text>
+
+<text 
+x="325" 
+y="457" 
+class="s3_85"
+>.</text>
+
+<text 
+x="333" 
+y="457" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>translatedText</text>
+
+<text 
+x="449" 
+y="457" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,481.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="209" 
+y="477" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>}); </text>
+
+<path d="M107.8,502l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="143" 
+y="498" 
+dx="0,-0.3,0,-0.3" 
+class="s3_85"
+>}); </text>
+
+<path d="M107.8,522.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="110" 
+y="519" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,543l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<path d="M107.8,563.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="110" 
+y="560" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_85"
+>function </text>
+
+<text 
+x="184" 
+y="560" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>httpGet</text>
+
+<text 
+x="242" 
+y="560" 
+class="s3_85"
+>(</text>
+
+<text 
+x="250" 
+y="560" 
+dx="0,0,-0.3,0,0,-0.3" 
+class="s5_85"
+>theUrl</text>
+
+<text 
+x="300" 
+y="560" 
+dx="0,-0.3" 
+class="s3_85"
+>: </text>
+
+<text 
+x="317" 
+y="560" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s10_85"
+>string</text>
+
+<text 
+x="366" 
+y="560" 
+dx="0,0,-0.3,-0.3" 
+class="s3_85"
+>) { </text>
+
+<path d="M107.8,584.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="143" 
+y="581" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s4_85"
+>return </text>
+
+<text 
+x="201" 
+y="581" 
+dx="0,-0.3,0,0.1" 
+class="s9_85"
+>new </text>
+
+<text 
+x="234" 
+y="581" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s10_85"
+>Promise</text>
+
+<text 
+x="292" 
+y="581" 
+class="s3_85"
+>((</text>
+
+<text 
+x="308" 
+y="581" 
+dx="0,0,-0.3" 
+class="s5_85"
+>res</text>
+
+<text 
+x="333" 
+y="581" 
+class="s3_85"
+>, </text>
+
+<text 
+x="350" 
+y="581" 
+dx="0,0,-0.3" 
+class="s5_85"
+>rej</text>
+
+<text 
+x="375" 
+y="581" 
+dx="0,-0.3" 
+class="s3_85"
+>) </text>
+
+<text 
+x="391" 
+y="581" 
+dx="0,0,-0.3" 
+class="s9_85"
+>=&gt; </text>
+
+<text 
+x="416" 
+y="581" 
+dx="0,-0.3" 
+class="s3_85"
+>{ </text>
+
+<path d="M107.8,605l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="176" 
+y="601" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>request</text>
+
+<text 
+x="234" 
+y="601" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="601" 
+dx="0,-0.3,0" 
+class="s6_85"
+>get</text>
+
+<text 
+x="267" 
+y="601" 
+class="s3_85"
+>(</text>
+
+<text 
+x="275" 
+y="601" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s5_85"
+>theUrl</text>
+
+<text 
+x="325" 
+y="601" 
+class="s3_85"
+>, (</text>
+
+<text 
+x="350" 
+y="601" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_85"
+>error</text>
+
+<text 
+x="391" 
+y="601" 
+class="s3_85"
+>, </text>
+
+<text 
+x="408" 
+y="601" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s5_85"
+>response</text>
+
+<text 
+x="474" 
+y="601" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="490" 
+y="601" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>body</text>
+
+<text 
+x="523" 
+y="601" 
+class="s3_85"
+>) </text>
+
+<text 
+x="540" 
+y="601" 
+dx="0,-0.3,0" 
+class="s9_85"
+>=&gt; </text>
+
+<text 
+x="565" 
+y="601" 
+dx="0,-0.3" 
+class="s3_85"
+>{ </text>
+
+<path d="M107.8,625.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="209" 
+y="622" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s9_85"
+>const </text>
+
+<text 
+x="259" 
+y="622" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>json </text>
+
+<text 
+x="300" 
+y="622" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="317" 
+y="622" 
+dx="0,-0.3,0,0" 
+class="s10_85"
+>JSON</text>
+
+<text 
+x="350" 
+y="622" 
+class="s3_85"
+>.</text>
+
+<text 
+x="358" 
+y="622" 
+dx="0,-0.3,0,-0.3,0" 
+class="s6_85"
+>parse</text>
+
+<text 
+x="400" 
+y="622" 
+class="s3_85"
+>(</text>
+
+<text 
+x="408" 
+y="622" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>body</text>
+
+<text 
+x="441" 
+y="622" 
+dx="0,-0.3,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,646.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="209" 
+y="642" 
+class="s6_85"
+>res</text>
+
+<text 
+x="234" 
+y="642" 
+class="s3_85"
+>(</text>
+
+<text 
+x="242" 
+y="642" 
+dx="0,-0.3,0,-0.3" 
+class="s5_85"
+>json</text>
+
+<text 
+x="275" 
+y="642" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,667l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="176" 
+y="663" 
+dx="0,0,-0.3,-0.3" 
+class="s3_85"
+>}); </text>
+
+<path d="M107.8,687.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="684" 
+dx="0,-0.3,0,-0.3" 
+class="s3_85"
+>}); </text>
+
+<path d="M107.8,708l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="110" 
+y="704" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,728.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<path d="M107.8,749.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="110" 
+y="746" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_85"
+>function </text>
+
+<text 
+x="184" 
+y="746" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_85"
+>asianPunctuation</text>
+
+<text 
+x="317" 
+y="746" 
+class="s3_85"
+>(</text>
+
+<text 
+x="325" 
+y="746" 
+dx="0,0,0,-0.3" 
+class="s5_85"
+>text</text>
+
+<text 
+x="358" 
+y="746" 
+dx="0,-0.3" 
+class="s3_85"
+>: </text>
+
+<text 
+x="375" 
+y="746" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s10_85"
+>string</text>
+
+<text 
+x="424" 
+y="746" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>) { </text>
+
+<path d="M107.8,770l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="766" 
+dx="0,-0.3,0,0.1" 
+class="s9_85"
+>let </text>
+
+<text 
+x="176" 
+y="766" 
+dx="0,0,-0.3,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="217" 
+y="766" 
+class="s3_85"
+>= </text>
+
+<text 
+x="234" 
+y="766" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>text</text>
+
+<text 
+x="267" 
+y="766" 
+dx="0,-0.3" 
+class="s3_85"
+>; </text>
+
+<path d="M107.8,790.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="786" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="184" 
+y="786" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="201" 
+y="786" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="786" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="786" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>replace</text>
+
+<text 
+x="300" 
+y="786" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="786" 
+class="s11_85"
+>/</text>
+
+<text 
+x="317" 
+y="786" 
+class="s12_85"
+>？</text>
+
+<text 
+x="330" 
+y="786" 
+class="s11_85"
+>/</text>
+
+<text 
+x="339" 
+y="786" 
+class="s9_85"
+>g</text>
+
+<text 
+x="347" 
+y="786" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="364" 
+y="786" 
+dx="0,-0.3,0,-0.3" 
+class="s7_85"
+>'? '</text>
+
+<text 
+x="397" 
+y="786" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,811.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="143" 
+y="807" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="184" 
+y="807" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="201" 
+y="807" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="807" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="807" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>replace</text>
+
+<text 
+x="300" 
+y="807" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="807" 
+class="s11_85"
+>/</text>
+
+<text 
+x="317" 
+y="807" 
+class="s12_85"
+>！</text>
+
+<text 
+x="330" 
+y="807" 
+class="s11_85"
+>/</text>
+
+<text 
+x="339" 
+y="807" 
+class="s9_85"
+>g</text>
+
+<text 
+x="347" 
+y="807" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="364" 
+y="807" 
+dx="0,-0.3,0,-0.3" 
+class="s7_85"
+>'! '</text>
+
+<text 
+x="397" 
+y="807" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,832l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="143" 
+y="827" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="184" 
+y="827" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="201" 
+y="827" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="827" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="827" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>replace</text>
+
+<text 
+x="300" 
+y="827" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="827" 
+class="s11_85"
+>/</text>
+
+<text 
+x="317" 
+y="827" 
+class="s12_85"
+>。</text>
+
+<text 
+x="330" 
+y="827" 
+class="s11_85"
+>/</text>
+
+<text 
+x="339" 
+y="827" 
+class="s9_85"
+>g</text>
+
+<text 
+x="347" 
+y="827" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="364" 
+y="827" 
+dx="0,-0.3,0,-0.3" 
+class="s7_85"
+>'. '</text>
+
+<text 
+x="397" 
+y="827" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,852.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="848" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="184" 
+y="848" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="201" 
+y="848" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="848" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="848" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>replace</text>
+
+<text 
+x="300" 
+y="848" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="848" 
+class="s11_85"
+>/</text>
+
+<text 
+x="317" 
+y="848" 
+class="s12_85"
+>，</text>
+
+<text 
+x="330" 
+y="848" 
+class="s11_85"
+>/</text>
+
+<text 
+x="339" 
+y="848" 
+class="s9_85"
+>g</text>
+
+<text 
+x="347" 
+y="848" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="364" 
+y="848" 
+dx="0,-0.3,0,-0.3" 
+class="s7_85"
+>', '</text>
+
+<text 
+x="397" 
+y="848" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,873l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="869" 
+dx="0,-0.3,0,0,-0.3" 
+class="s5_85"
+>temp </text>
+
+<text 
+x="184" 
+y="869" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="201" 
+y="869" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="869" 
+class="s3_85"
+>.</text>
+
+<text 
+x="242" 
+y="869" 
+dx="0,-0.3,0,-0.3,0,0,-0.3" 
+class="s6_85"
+>replace</text>
+
+<text 
+x="300" 
+y="869" 
+class="s3_85"
+>(</text>
+
+<text 
+x="308" 
+y="869" 
+class="s11_85"
+>/</text>
+
+<text 
+x="317" 
+y="869" 
+class="s12_85"
+>；</text>
+
+<text 
+x="330" 
+y="869" 
+class="s11_85"
+>/</text>
+
+<text 
+x="339" 
+y="869" 
+class="s9_85"
+>g</text>
+
+<text 
+x="347" 
+y="869" 
+dx="0,-0.3" 
+class="s3_85"
+>, </text>
+
+<text 
+x="364" 
+y="869" 
+dx="0,-0.3,0,-0.3" 
+class="s7_85"
+>'; '</text>
+
+<text 
+x="397" 
+y="869" 
+dx="0,0,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,893.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="143" 
+y="890" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s4_85"
+>return </text>
+
+<text 
+x="201" 
+y="890" 
+dx="0,-0.3,0,0" 
+class="s5_85"
+>temp</text>
+
+<text 
+x="234" 
+y="890" 
+dx="0,-0.3" 
+class="s3_85"
+>; </text>
+
+<path d="M107.8,914.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="110" 
+y="911" 
+class="s3_85"
+>} </text>
+
+<path d="M107.8,935l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<path d="M107.8,955.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="110" 
+y="952" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_85"
+>function </text>
+
+<text 
+x="184" 
+y="952" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s6_85"
+>asianRegex</text>
+
+<text 
+x="267" 
+y="952" 
+class="s3_85"
+>(</text>
+
+<text 
+x="275" 
+y="952" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>text</text>
+
+<text 
+x="308" 
+y="952" 
+class="s3_85"
+>: </text>
+
+<text 
+x="325" 
+y="952" 
+dx="0,0,0,-0.3,0,-0.3" 
+class="s10_85"
+>string</text>
+
+<text 
+x="375" 
+y="952" 
+dx="0,-0.3,0,-0.3" 
+class="s3_85"
+>) { </text>
+
+<path d="M107.8,976.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="143" 
+y="972" 
+dx="0,-0.3,0,0,-0.3,0.1" 
+class="s9_85"
+>const </text>
+
+<text 
+x="192" 
+y="972" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s5_85"
+>asianRegexp </text>
+
+<text 
+x="292" 
+y="972" 
+class="s3_85"
+>= </text>
+
+<text 
+x="308" 
+y="972" 
+dx="0,0,-0.3,0" 
+class="s9_85"
+>new </text>
+
+<text 
+x="342" 
+y="972" 
+dx="0,-0.3,0,-0.3,0,-0.3" 
+class="s10_85"
+>RegExp</text>
+
+<text 
+x="391" 
+y="972" 
+class="s3_85"
+>(</text>
+
+<text 
+x="400" 
+y="972" 
+class="s11_85"
+>/</text>
+
+<text 
+x="408" 
+y="972" 
+class="s13_85"
+>[</text>
+
+<text 
+x="416" 
+y="972" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s9_85"
+>\u3040</text>
+
+<text 
+x="466" 
+y="972" 
+class="s11_85"
+>-</text>
+
+<text 
+x="474" 
+y="972" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s9_85"
+>\u30ff\u3400</text>
+
+<text 
+x="573" 
+y="972" 
+class="s11_85"
+>-</text>
+
+<text 
+x="581" 
+y="972" 
+dx="0,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s9_85"
+>\u4dbf\u4e00</text>
+
+<text 
+x="681" 
+y="972" 
+class="s11_85"
+>-</text>
+
+<text 
+x="689" 
+y="972" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s9_85"
+>\u9fff\uf900</text>
+
+<text 
+x="789" 
+y="972" 
+class="s11_85"
+>-</text>
+
+<path d="M107.8,997l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="110" 
+y="993" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0" 
+class="s9_85"
+>\ufaff\uff66</text>
+
+<text 
+x="209" 
+y="993" 
+class="s11_85"
+>-</text>
+
+<text 
+x="217" 
+y="993" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s9_85"
+>\uff9f</text>
+
+<text 
+x="267" 
+y="993" 
+class="s13_85"
+>]</text>
+
+<text 
+x="275" 
+y="993" 
+class="s11_85"
+>/</text>
+
+<text 
+x="284" 
+y="993" 
+dx="0,-0.3,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,1017.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="1014" 
+dx="0,-0.3,0,0,-0.3,0.1" 
+class="s9_85"
+>const </text>
+
+<text 
+x="192" 
+y="1014" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>res </text>
+
+<text 
+x="226" 
+y="1014" 
+dx="0,-0.3" 
+class="s3_85"
+>= </text>
+
+<text 
+x="242" 
+y="1014" 
+dx="0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_85"
+>asianRegexp</text>
+
+<text 
+x="333" 
+y="1014" 
+class="s3_85"
+>.</text>
+
+<text 
+x="342" 
+y="1014" 
+dx="0,-0.3,0,-0.3" 
+class="s6_85"
+>test</text>
+
+<text 
+x="375" 
+y="1014" 
+class="s3_85"
+>(</text>
+
+<text 
+x="383" 
+y="1014" 
+dx="0,0,0,-0.3" 
+class="s5_85"
+>text</text>
+
+<text 
+x="416" 
+y="1014" 
+dx="0,-0.3,-0.3" 
+class="s3_85"
+>); </text>
+
+<path d="M107.8,1038l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_85" />
+<text 
+x="143" 
+y="1034" 
+dx="0,-0.3,0" 
+class="s4_85"
+>if </text>
+
+<text 
+x="168" 
+y="1034" 
+dx="0,-0.3" 
+class="s3_85"
+>(!</text>
+
+<text 
+x="184" 
+y="1034" 
+dx="0,-0.3,0" 
+class="s5_85"
+>res</text>
+
+<text 
+x="209" 
+y="1034" 
+dx="0,0,0,-0.3" 
+class="s3_85"
+>) { </text>
+
+<text 
+x="250" 
+y="1034" 
+dx="0,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,-0.4" 
+class="s14_85"
+>// No Asian characters in string </text>
+
+<path d="M107.8,1058.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_85" />
+<text 
+x="176" 
+y="1055" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s4_85"
+>return </text>
+
+<text 
+x="234" 
+y="1055" 
+dx="0,0,-0.3,0" 
+class="s5_85"
+>text</text>
+
+<text 
+x="267" 
+y="1055" 
+dx="0,-0.3" 
+class="s3_85"
+>; </text>
+
+<path d="M107.8,1079.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_85" />
+<text 
+x="143" 
+y="1076" 
+dx="0,-0.3" 
+class="s3_85"
+>} </text>
+
+<text 
+x="159" 
+y="1076" 
+dx="0,0,-0.3,0,-0.3" 
+class="s4_85"
+>else </text>
+
+<text 
+x="201" 
+y="1076" 
+dx="0,-0.3" 
+class="s3_85"
+>{ </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: MS-Mincho_im;
+	src: url("fonts/MS-Mincho_im.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 56 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_56{
+fill: #D9D9D9;
+}
+.g2_56{
+fill: #FFFFFF;
+}
+
+.s1_56{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_56{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_56{
+font-size: 18.33px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s4_56{
+font-size: 14.67px;
+font-family: Calibri-Light_r;
+fill: #44546A;
+}
+.s5_56{
+font-size: 16.13px;
+font-family: Consolas_c7;
+fill: #0000FF;
+}
+.s6_56{
+font-size: 16.13px;
+font-family: Consolas_c7;
+fill: #000000;
+}
+.s7_56{
+font-size: 16.13px;
+font-family: Consolas_c7;
+fill: #A31515;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_56"
+>56 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_56"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_56" />
+<text 
+x="110" 
+y="127" 
+class="s3_56"
+>F</text>
+
+<text 
+x="119" 
+y="127" 
+dx="0,1.6,1.6" 
+class="s4_56"
+>ILE</text>
+
+<text 
+x="141" 
+y="127" 
+class="s3_56"
+>:</text>
+
+<text 
+x="152" 
+y="127" 
+dx="0,1.6,1.3" 
+class="s4_56"
+>APP</text>
+
+<text 
+x="180" 
+y="127" 
+class="s3_56"
+>.</text>
+
+<text 
+x="185" 
+y="127" 
+dx="0,1.3,1.4,1.5,1.3,1.4,1.6,1.6,1.6" 
+class="s4_56"
+>COMPONENT</text>
+
+<text 
+x="279" 
+y="127" 
+class="s3_56"
+>.</text>
+
+<text 
+x="284" 
+y="127" 
+dx="0,1.3" 
+class="s4_56"
+>TS</text>
+
+<path d="M107.8,158.8l719.4,0l0,-18.7l-719.4,0l0,18.7Z" class="g2_56" />
+<text 
+x="110" 
+y="154" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s5_56"
+>import </text>
+
+<text 
+x="171" 
+y="154" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>{ Component } </text>
+
+<text 
+x="294" 
+y="154" 
+dx="0,-0.1,-0.1,-0.1,-0.1" 
+class="s5_56"
+>from </text>
+
+<text 
+x="338" 
+y="154" 
+dx="0,-0.1,-0.1,0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'@angular/core'</text>
+
+<text 
+x="471" 
+y="154" 
+dx="0,0.3" 
+class="s6_56"
+>; </text>
+
+<path d="M107.8,180.4l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_56" />
+<text 
+x="110" 
+y="176" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s5_56"
+>import </text>
+
+<text 
+x="171" 
+y="176" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>{ BaseComponent } </text>
+
+<text 
+x="330" 
+y="176" 
+dx="0,-0.1,-0.1,-0.1,0.3" 
+class="s5_56"
+>from </text>
+
+<text 
+x="374" 
+y="176" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'./base/base.component'</text>
+
+<text 
+x="577" 
+y="176" 
+dx="0,0.3" 
+class="s6_56"
+>; </text>
+
+<path d="M107.8,202.4l719.4,0l0,-22l-719.4,0l0,22Z" class="g2_56" />
+<path d="M107.8,224l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_56" />
+<text 
+x="110" 
+y="220" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.3" 
+class="s6_56"
+>@Component({ </text>
+
+<path d="M107.8,245.7l719.4,0l0,-21.7l-719.4,0l0,21.7Z" class="g2_56" />
+<text 
+x="127" 
+y="241" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>selector: </text>
+
+<text 
+x="215" 
+y="241" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'app-root'</text>
+
+<text 
+x="303" 
+y="241" 
+dx="0,0.3" 
+class="s6_56"
+>, </text>
+
+<path d="M107.8,267.7l719.4,0l0,-22l-719.4,0l0,22Z" class="g2_56" />
+<text 
+x="127" 
+y="263" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>templateUrl: </text>
+
+<text 
+x="242" 
+y="263" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.3,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'./app.component.html'</text>
+
+<text 
+x="435" 
+y="263" 
+dx="0,0.3" 
+class="s6_56"
+>, </text>
+
+<path d="M107.8,289.3l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_56" />
+<text 
+x="127" 
+y="285" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>styleUrls: [</text>
+
+<text 
+x="233" 
+y="285" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.3,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'./app.component.css'</text>
+
+<text 
+x="418" 
+y="285" 
+dx="0,0.3" 
+class="s6_56"
+>] </text>
+
+<path d="M107.8,311.3l719.4,0l0,-22l-719.4,0l0,22Z" class="g2_56" />
+<text 
+x="110" 
+y="306" 
+dx="0,-0.1,-0.1" 
+class="s6_56"
+>}) </text>
+
+<path d="M107.8,332.9l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_56" />
+<text 
+x="110" 
+y="328" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s5_56"
+>export class </text>
+
+<text 
+x="224" 
+y="328" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,0.3" 
+class="s6_56"
+>AppComponent { </text>
+
+<path d="M107.8,354.6l719.4,0l0,-21.7l-719.4,0l0,21.7Z" class="g2_56" />
+<text 
+x="127" 
+y="350" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s6_56"
+>title = </text>
+
+<text 
+x="198" 
+y="350" 
+dx="0,-0.1,-0.1,-0.1,-0.1" 
+class="s7_56"
+>'app'</text>
+
+<text 
+x="242" 
+y="350" 
+dx="0,0.3" 
+class="s6_56"
+>; </text>
+
+<path d="M107.8,376.6l719.4,0l0,-22l-719.4,0l0,22Z" class="g2_56" />
+<text 
+x="110" 
+y="372" 
+dx="0,-0.1" 
+class="s6_56"
+>} </text>
+
+<path d="M107.8,398.2l719.4,0l0,-21.6l-719.4,0l0,21.6Z" class="g2_56" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Light_r;
+	src: url("fonts/Calibri-Light_r.woff") format("woff");
+}
+
+@font-face {
+	font-family: Consolas_c7;
+	src: url("fonts/Consolas_c7.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

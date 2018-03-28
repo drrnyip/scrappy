@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 63 -->
+<svg x="0" y="0" width="935" height="1210" viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g1_63{
+fill: #D9D9D9;
+}
+.g2_63{
+fill: #FFFFFF;
+}
+
+.s1_63{
+font-size: 18.33px;
+font-family: ArialNovaCond-Bold_d;
+fill: #5A5A5A;
+}
+.s2_63{
+font-size: 12.10px;
+font-family: ArialNova-Light_n;
+fill: #7F7F7F;
+}
+.s3_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #008000;
+}
+.s4_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #000000;
+}
+.s5_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #800000;
+}
+.s6_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #FF0000;
+}
+.s7_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #0451A5;
+}
+.s8_63{
+font-size: 13.93px;
+font-family: Menlo-Regular_bu;
+fill: #09885A;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1210
+L935,1210
+L935,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<text 
+x="110" 
+y="1106" 
+dx="0,0,0,0.2" 
+class="s1_63"
+>63 |</text>
+
+<text 
+x="141" 
+y="1106" 
+dx="0,4.3,4.9,0,1.9,0,1.6,0,1.3,0,1.7,0,1.7,0,1.2,0,1.9,0,1.6,4.7,4.9,0,1.3,0,1.7,0,1.6,0,1.5,0,1.6,0,1.9,0,1.2,0,1.5,0,1.9,0,1.5,4.5,4.9,0,1.7,0,1.2,0,1.9,0,1.9,0,1.2,4.5,4.5,0,1.9,0,1.5,4.7,4.9,0,1.3,0,1.5,0,1.9,0,1.5,0,1.5,0,1.5,0,1.5,0,1.9,0,1.3,0,1.9,0,1.6,4.6,4.5,0,1.9,0,1.5,0,1.7,0,1.6,0,1.4,0,1.9,0,1.3,0,1.9,0,1.5,0,1.7,0,1.5,0,1.5,0,1.9" 
+class="s2_63"
+>A W e b - b a s e d T r a n s l a t i o n S y s t e m f o r M u l t i l i n g u a l C o d e - s w i t c h i n g</text>
+
+<path d="M107.8,1086.4l719.4,0l0,-0.7l-719.4,0l0,0.7Z" class="g1_63" />
+<path d="M107.8,130.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="127" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s3_63"
+>/* Firefox */ </text>
+
+<path d="M107.8,151.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="110" 
+y="147" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,172l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<path d="M107.8,192.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="189" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.4,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_63"
+>#destinationTranslation:-ms-input-placeholder </text>
+
+<text 
+x="490" 
+y="189" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,213l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="209" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1,0,-0.3,0,-0.3,0,-0.3" 
+class="s3_63"
+>/* Internet Explorer 10-11 */ </text>
+
+<path d="M107.8,233.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="230" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>color</text>
+
+<text 
+x="184" 
+y="230" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="230" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_63"
+>white</text>
+
+<text 
+x="242" 
+y="230" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,254.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="110" 
+y="251" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,275l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<path d="M107.8,295.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="292" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0.1" 
+class="s5_63"
+>#destinationTranslation::-ms-input-placeholder </text>
+
+<text 
+x="499" 
+y="292" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,316.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="312" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s3_63"
+>/* Microsoft Edge */ </text>
+
+<path d="M107.8,337l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="333" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>color</text>
+
+<text 
+x="184" 
+y="333" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="333" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_63"
+>white</text>
+
+<text 
+x="242" 
+y="333" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,357.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="354" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,378l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<path d="M107.8,398.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="110" 
+y="395" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s5_63"
+>.orange-cage </text>
+
+<text 
+x="217" 
+y="395" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,419.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="416" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s6_63"
+>border</text>
+
+<text 
+x="192" 
+y="416" 
+class="s4_63"
+>: </text>
+
+<text 
+x="209" 
+y="416" 
+dx="0,0,0,-0.3" 
+class="s8_63"
+>3px </text>
+
+<text 
+x="242" 
+y="416" 
+dx="0,-0.3,0,-0.3,0,0.1,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s7_63"
+>ridge #D9853B</text>
+
+<text 
+x="350" 
+y="416" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,440l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="436" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s6_63"
+>border-radius</text>
+
+<text 
+x="250" 
+y="436" 
+class="s4_63"
+>: </text>
+
+<text 
+x="267" 
+y="436" 
+dx="0,0,0,-0.3,0" 
+class="s8_63"
+>7.5px</text>
+
+<text 
+x="308" 
+y="436" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,460.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="457" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_63"
+>padding</text>
+
+<text 
+x="201" 
+y="457" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="217" 
+y="457" 
+dx="0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0.1,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s8_63"
+>12px 7.5px 12px 7.5px</text>
+
+<text 
+x="391" 
+y="457" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,481.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="110" 
+y="477" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,502l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<path d="M107.8,522.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="519" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3" 
+class="s5_63"
+>#apiLink </text>
+
+<text 
+x="184" 
+y="519" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,543l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="539" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s6_63"
+>font-family</text>
+
+<text 
+x="234" 
+y="539" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,-0.3" 
+class="s4_63"
+>: Montserrat; </text>
+
+<path d="M107.8,563.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="560" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>color</text>
+
+<text 
+x="184" 
+y="560" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="560" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s7_63"
+>whitesmoke</text>
+
+<text 
+x="284" 
+y="560" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,584.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="110" 
+y="581" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,605l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<path d="M107.8,625.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="622" 
+dx="0,0,0,-0.3,0,-0.3,0,0" 
+class="s5_63"
+>#credit </text>
+
+<text 
+x="176" 
+y="622" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,646.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="642" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s6_63"
+>margin-top</text>
+
+<text 
+x="226" 
+y="642" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="242" 
+y="642" 
+dx="0,-0.3,0" 
+class="s8_63"
+>0px</text>
+
+<text 
+x="267" 
+y="642" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,667l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="663" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s6_63"
+>text-align</text>
+
+<text 
+x="226" 
+y="663" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="242" 
+y="663" 
+dx="0,-0.3,0,-0.3,0" 
+class="s7_63"
+>right</text>
+
+<text 
+x="284" 
+y="663" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,687.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="684" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s6_63"
+>font-style</text>
+
+<text 
+x="226" 
+y="684" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="242" 
+y="684" 
+dx="0,-0.3,0,-0.3,0,0" 
+class="s7_63"
+>italic</text>
+
+<text 
+x="292" 
+y="684" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,708l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="704" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_63"
+>font-size</text>
+
+<text 
+x="217" 
+y="704" 
+class="s4_63"
+>: </text>
+
+<text 
+x="234" 
+y="704" 
+dx="0,0,-0.3,0,-0.3,0" 
+class="s8_63"
+>1.5rem</text>
+
+<text 
+x="284" 
+y="704" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,728.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="725" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>color</text>
+
+<text 
+x="184" 
+y="725" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="725" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s7_63"
+>#0096c8</text>
+
+<text 
+x="259" 
+y="725" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,749.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="110" 
+y="746" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,770l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<path d="M107.8,790.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="787" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s5_63"
+>#belowDestinationDiv select </text>
+
+<text 
+x="342" 
+y="787" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+<path d="M107.8,811.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="807" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s6_63"
+>font-family</text>
+
+<text 
+x="234" 
+y="807" 
+dx="0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,-0.3" 
+class="s4_63"
+>: Montserrat; </text>
+
+<path d="M107.8,832l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="828" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>float</text>
+
+<text 
+x="184" 
+y="828" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="828" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_63"
+>right</text>
+
+<text 
+x="242" 
+y="828" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,852.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="849" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_63"
+>-webkit-border-radius</text>
+
+<text 
+x="317" 
+y="849" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="333" 
+y="849" 
+dx="0,0,-0.3" 
+class="s8_63"
+>5px</text>
+
+<text 
+x="358" 
+y="849" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,873l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="869" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0" 
+class="s6_63"
+>-moz-border-radius</text>
+
+<text 
+x="292" 
+y="869" 
+class="s4_63"
+>: </text>
+
+<text 
+x="308" 
+y="869" 
+dx="0,0,-0.3" 
+class="s8_63"
+>5px</text>
+
+<text 
+x="333" 
+y="869" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,893.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="890" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0" 
+class="s6_63"
+>border-radius</text>
+
+<text 
+x="250" 
+y="890" 
+class="s4_63"
+>: </text>
+
+<text 
+x="267" 
+y="890" 
+class="s8_63"
+>5px</text>
+
+<text 
+x="292" 
+y="890" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,914.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="911" 
+dx="0,-0.3,0,0,-0.3" 
+class="s6_63"
+>color</text>
+
+<text 
+x="184" 
+y="911" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="201" 
+y="911" 
+dx="0,-0.3,0,0,-0.3" 
+class="s7_63"
+>white</text>
+
+<text 
+x="242" 
+y="911" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,935l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="931" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0.1,-0.3,0,-0.3,0,-0.3" 
+class="s6_63"
+>background-color</text>
+
+<text 
+x="275" 
+y="931" 
+class="s4_63"
+>: </text>
+
+<text 
+x="292" 
+y="931" 
+dx="0,0,-0.3,0,-0.3,0,0" 
+class="s7_63"
+>#00acce</text>
+
+<text 
+x="350" 
+y="931" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,955.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="952" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s6_63"
+>border</text>
+
+<text 
+x="192" 
+y="952" 
+class="s4_63"
+>: </text>
+
+<text 
+x="209" 
+y="952" 
+dx="0,0,0,-0.3" 
+class="s7_63"
+>none</text>
+
+<text 
+x="242" 
+y="952" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,976.4l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<text 
+x="143" 
+y="972" 
+dx="0,-0.3,0,0,-0.3,0,-0.3,0,-0.3" 
+class="s6_63"
+>font-size</text>
+
+<text 
+x="217" 
+y="972" 
+class="s4_63"
+>: </text>
+
+<text 
+x="234" 
+y="972" 
+dx="0,0,-0.3,0" 
+class="s8_63"
+>14px</text>
+
+<text 
+x="267" 
+y="972" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,997l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="143" 
+y="993" 
+dx="0,-0.3,0,0,-0.3,0" 
+class="s6_63"
+>height</text>
+
+<text 
+x="192" 
+y="993" 
+class="s4_63"
+>: </text>
+
+<text 
+x="209" 
+y="993" 
+dx="0,0,0,-0.3" 
+class="s8_63"
+>29px</text>
+
+<text 
+x="242" 
+y="993" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,1017.5l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="143" 
+y="1014" 
+dx="0,-0.3,0,0,-0.3,0,-0.3" 
+class="s6_63"
+>padding</text>
+
+<text 
+x="201" 
+y="1014" 
+dx="0,-0.3" 
+class="s4_63"
+>: </text>
+
+<text 
+x="217" 
+y="1014" 
+dx="0,0,-0.3" 
+class="s8_63"
+>5px</text>
+
+<text 
+x="242" 
+y="1014" 
+dx="0,-0.3" 
+class="s4_63"
+>; </text>
+
+<path d="M107.8,1038l719.4,0l0,-20.5l-719.4,0l0,20.5Z" class="g2_63" />
+<text 
+x="110" 
+y="1034" 
+class="s4_63"
+>} </text>
+
+<path d="M107.8,1058.9l719.4,0l0,-20.9l-719.4,0l0,20.9Z" class="g2_63" />
+<path d="M107.8,1079.5l719.4,0l0,-20.6l-719.4,0l0,20.6Z" class="g2_63" />
+<text 
+x="110" 
+y="1076" 
+dx="0,0,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0,0,-0.3,0,-0.3,0,-0.3,0" 
+class="s5_63"
+>#targetLanguageLabel </text>
+
+<text 
+x="284" 
+y="1076" 
+dx="0,-0.3" 
+class="s4_63"
+>{ </text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: ArialNovaCond-Bold_d;
+	src: url("fonts/ArialNovaCond-Bold_d.woff") format("woff");
+}
+
+@font-face {
+	font-family: Menlo-Regular_bu;
+	src: url("fonts/Menlo-Regular_bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: ArialNova-Light_n;
+	src: url("fonts/ArialNova-Light_n.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
